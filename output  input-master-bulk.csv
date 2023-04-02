@@ -1,0 +1,548 @@
+ingredient,local_alias,product_name,brand_name,expiry_date,Estimated Total Qty,minQty,unit,original unit,price
+Capsicum,,Capsicum,Generic,3/22/2023,200,100,Kg,None,
+Fenugreek Leaves,,Fenugreek Leaves,Generic,3/22/2023,200,100,Kg,None,
+Egg Organic,,Egg Organic,Generic,3/22/2023,200,100,Kg,None,
+Egg,,Egg,Generic,3/22/2023,200,100,Kg,None,
+Green Bell Pepper,,Green Bell Pepper,Generic,3/22/2023,200,100,Kg,None,
+Cucumber,,Cucumber,Generic,3/22/2023,200,100,Kg,None,
+Bottle Gourd,,Bottle Gourd,Generic,3/22/2023,200,100,Kg,None,
+Ridge Gourd,,Ridge Gourd,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Sweet Lime,,Sweet Lime,Generic,3/22/2023,200,100,Kg,gm,60000.0
+Palmier,,Palmier,Generic,3/22/2023,200,100,Kg,None,
+Tender Gourd,,Tender Gourd,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Ash Gourd,,Ash Gourd,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Vegetable Oil,,Vegetable Oil,Generic,3/22/2023,200,100,liter,ml,198000.0
+Orange Juice,,Orange Juice,Generic,3/22/2023,200,100,liter,l,49400.0
+Lemon,,Lemon,Generic,3/22/2023,200,100,liter,None,
+Tea,,Tea,Generic,3/22/2023,200,100,liter,kg,
+Milk Lowfat,,Milk Lowfat,Generic,3/22/2023,200,100,liter,None,
+Rose,,Rose,Generic,3/22/2023,200,100,liter,ml,198000.0
+Milk,,Milk,Generic,3/22/2023,200,100,liter,l,13400.0
+Orange Drink,,Orange Drink,Generic,3/22/2023,200,100,liter,None,
+Pickle Relish,,Pickle Relish,Generic,3/22/2023,200,100,liter,gm,
+Vanilla bean,,Vanilla bean,Generic,3/22/2023,200,100,liter,gm,
+Milk Whole,,Milk Whole,Generic,3/22/2023,200,100,liter,None,
+Oil Sunflower,,Oil Sunflower,Generic,3/22/2023,200,100,liter,ml,198000.0
+Fresh Lemon Juice,,Fresh Lemon Juice,Generic,3/22/2023,200,100,liter,ml,20000.0
+Hot Sauce,,Hot Sauce,Generic,3/22/2023,200,100,liter,gm,
+Soy Sauce,,Soy Sauce,Generic,3/22/2023,200,100,liter,gm,
+Worcestershire Sauce,,Worcestershire Sauce,Generic,3/22/2023,200,100,liter,gm,
+Carrot Juice,,Carrot Juice,Generic,3/22/2023,200,100,liter,gm,
+Oil Canola,,Oil Canola,Generic,3/22/2023,200,100,liter,ml,198000.0
+Oil Corn,,Oil Corn,Generic,3/22/2023,200,100,liter,gm,
+Oil Peanut,,Oil Peanut,Generic,3/22/2023,200,100,liter,gm,
+Sesame Oil,,Sesame Oil,Generic,3/22/2023,200,100,liter,gm,
+Soda,,Soda,Generic,3/22/2023,200,100,liter,ml,4000.0
+Heavy Cream,,Heavy Cream,Generic,3/22/2023,200,100,liter,gm,
+Milk Sweetened Caramelized,,Milk Sweetened Caramelized,Generic,3/22/2023,200,100,liter,gm,
+Coconut Water,,Coconut Water,Generic,3/22/2023,200,100,liter,gm,
+Syrup,,Syrup,Generic,3/22/2023,200,100,liter,gm,
+Mangosteen,,Mangosteen,Generic,3/22/2023,200,100,liter,None,
+Soya,,Soya,Generic,3/22/2023,200,100,liter,gm,
+Dill Pickle,,Dill Pickle,Generic,3/22/2023,200,100,liter,gm,
+Vinegar Synthetic,,Vinegar Synthetic,Generic,3/22/2023,200,100,liter,ml,12000.0
+Evaporated milk,,Evaporated milk,Generic,3/22/2023,200,100,liter,gm,
+Pineapple Juice,,Pineapple Juice,Generic,3/22/2023,200,100,liter,ml,160000.0
+Buttermilk,,Buttermilk,Generic,3/22/2023,200,100,liter,ml,14000.0
+Lemon Juice,,Lemon Juice,Generic,3/22/2023,200,100,liter,ml,10000.0
+Lime Juice,,Lime Juice,Generic,3/22/2023,200,100,liter,ml,10000.0
+Vinegar,,Vinegar,Generic,3/22/2023,200,100,liter,ml,10000.0
+Coconut Cream,,Coconut Cream,Generic,3/22/2023,200,100,liter,gm,
+Kashmiri Dry Chili Pepper,,Kashmiri Dry Chili Pepper,Generic,3/22/2023,200,100,liter,gm,
+Mango Juice,,Mango Juice,Generic,3/22/2023,200,100,liter,ml,34000.0
+Nestle Cream,,Nestle Cream,Generic,3/22/2023,200,100,liter,gm,
+Coconut Milk,,Coconut Milk,Generic,3/22/2023,200,100,liter,ml,72000.0
+Olive Oil,,Olive Oil,Generic,3/22/2023,200,100,liter,l,111000.0
+water,,water,Generic,3/22/2023,200,100,liter,ml,70000.0
+Watermelon,,Watermelon,Generic,3/22/2023,200,100,liter,gm,
+Chili Sauce,,Chili Sauce,Generic,3/22/2023,200,100,liter,gm,
+Whipped Cream,,Whipped Cream,Generic,3/22/2023,200,100,liter,kg,
+Ranch Dressing,,Ranch Dressing,Generic,3/22/2023,200,100,liter,gm,
+Sev,,Sev,Generic,3/22/2023,200,100,liter,gm,
+Mayonnaise,,Mayonnaise,Generic,3/22/2023,200,100,liter,kg,
+Oil Hazelnut,,Oil Hazelnut,Generic,3/22/2023,200,100,liter,ml,198000.0
+Gherkins,,Gherkins,Generic,3/22/2023,200,100,liter,None,
+Maggi,,Maggi,Generic,3/22/2023,200,100,liter,gm,
+Vinegar Balsamic,,Vinegar Balsamic,Generic,3/22/2023,200,100,liter,ml,12000.0
+Vinegar White,,Vinegar White,Generic,3/22/2023,200,100,liter,ml,10000.0
+Vanilla,,Vanilla,Generic,3/22/2023,200,100,liter,ml,128000.0
+Pepper Sauce,,Pepper Sauce,Generic,3/22/2023,200,100,liter,gm,
+Egg White,,Egg White,Generic,3/22/2023,200,100,liter,gm,
+Oil Coconut,,Oil Coconut,Generic,3/22/2023,200,100,liter,gm,
+Food Color,,Food Color,Generic,3/22/2023,200,100,liter,gm,
+Oil Virgin Olive,,Oil Virgin Olive,Generic,3/22/2023,200,100,liter,l,154000.0
+Cream,,Cream,Generic,3/22/2023,200,100,liter,gm,
+Potato,,Potato,Generic,3/22/2023,200,100,Kg,kg,5600.0
+Banana,,Banana,Generic,3/22/2023,200,100,Kg,gm,76000.0
+Beetroot,,Beetroot,Generic,3/22/2023,200,100,Kg,gm,10000.0
+Pumpkin,,Pumpkin,Generic,3/22/2023,200,100,Kg,gm,192000.0
+Jackfruit,,Jackfruit,Generic,3/22/2023,200,100,Kg,None,
+Cabbage,,Cabbage,Generic,3/22/2023,200,100,Kg,gm,8000.0
+Onion,,Onion,Generic,3/22/2023,200,100,Kg,ml,
+Orange,,Orange,Generic,3/22/2023,200,100,Kg,l,6844.0
+Onion White,,Onion White,Generic,3/22/2023,200,100,Kg,ml,
+Papaya,,Papaya,Generic,3/22/2023,200,100,Kg,gm,1380000.0
+Yam Elephant,,Yam Elephant,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Red Cabbage,,Red Cabbage,Generic,3/22/2023,200,100,Kg,gm,8000.0
+Butternut Squash,,Butternut Squash,Generic,3/22/2023,200,100,Kg,l,41800.0
+Jalapeno Pepper,,Jalapeno Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Onion Yellow,,Onion Yellow,Generic,3/22/2023,200,100,Kg,ml,
+Zucchini,,Zucchini,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Strawberry,,Strawberry,Generic,3/22/2023,200,100,Kg,gm,76000.0
+Eggplant,,Eggplant,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Flour Double Zero,,Flour Double Zero,Generic,3/22/2023,200,100,Kg,ml,
+Flour Whole Wheat,,Flour Whole Wheat,Generic,3/22/2023,200,100,Kg,kg,10600.0
+Wheat Flour,,Wheat Flour,Generic,3/22/2023,200,100,Kg,kg,10600.0
+White Flour,,White Flour,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Whole wheat flour,,Whole wheat flour,Generic,3/22/2023,200,100,Kg,gm,8000.0
+Chicken Whole,,Chicken Whole,Generic,3/22/2023,200,100,Kg,gm,198000.0
+Mustard Greens,,Mustard Greens,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Turnip,,Turnip,Generic,3/22/2023,200,100,Kg,None,
+Ginger,,Ginger,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Bitter Gourd,,Bitter Gourd,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Broccoli,,Broccoli,Generic,3/22/2023,200,100,Kg,None,
+Carrot,,Carrot,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Carrots Baby,,Carrots Baby,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Fresh Spinach,,Fresh Spinach,Generic,3/22/2023,200,100,Kg,kg,9400.0
+Green Beans,,Green Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Pear,,Pear,Generic,3/22/2023,200,100,Kg,gm,130000.0
+Radish,,Radish,Generic,3/22/2023,200,100,Kg,None,
+Tomato,,Tomato,Generic,3/22/2023,200,100,Kg,kg,19666.0
+Kiwi,,Kiwi,Generic,3/22/2023,200,100,Kg,gm,326000.0
+Lime,,Lime,Generic,3/22/2023,200,100,Kg,gm,80000.0
+Chicken Drumsticks,,Chicken Drumsticks,Generic,3/22/2023,200,100,Kg,gm,246000.0
+Chicken Leg,,Chicken Leg,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chicken Thighs,,Chicken Thighs,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Goat Bone in Leg,,Goat Bone in Leg,Generic,3/22/2023,200,100,Kg,gm,26666000.0
+Chicken Wing,,Chicken Wing,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Guava,,Guava,Generic,3/22/2023,200,100,Kg,l,15800.0
+Taro,,Taro,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Plum,,Plum,Generic,3/22/2023,200,100,Kg,gm,236000.0
+Cauliflower,,Cauliflower,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Apple,,Apple,Generic,3/22/2023,200,100,Kg,ml,
+Beef Rib,,Beef Rib,Generic,3/22/2023,200,100,Kg,u,
+Brussel Sprouts,,Brussel Sprouts,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Custard Apples,,Custard Apples,Generic,3/22/2023,200,100,Kg,ml,
+Grapes,,Grapes,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Kale,,Kale,Generic,3/22/2023,200,100,Kg,None,
+Sprouts,,Sprouts,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Celery,,Celery,Generic,3/22/2023,200,100,Kg,None,
+Chicken,,Chicken,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chicken Breast,,Chicken Breast,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Beef Chuck Steak,,Beef Chuck Steak,Generic,3/22/2023,200,100,Kg,kg,75652.0
+Beef Shank,,Beef Shank,Generic,3/22/2023,200,100,Kg,None,
+Goat Shank,,Goat Shank,Generic,3/22/2023,200,100,Kg,ml,
+Tamarind,,Tamarind,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Tamarind Pulp,,Tamarind Pulp,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Beef,,Beef,Generic,3/22/2023,200,100,Kg,None,
+Goat Ribs,,Goat Ribs,Generic,3/22/2023,200,100,Kg,ml,
+Fish,,Fish,Generic,3/22/2023,200,100,Kg,kg,62500.0
+Lamb Shoulder chop,,Lamb Shoulder chop,Generic,3/22/2023,200,100,Kg,ml,
+Chicken Pieces Boneless,,Chicken Pieces Boneless,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chicken Skinless,,Chicken Skinless,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chicken Tenderloins,,Chicken Tenderloins,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Beef Round,,Beef Round,Generic,3/22/2023,200,100,Kg,gm,12000.0
+Beef Sirloin,,Beef Sirloin,Generic,3/22/2023,200,100,Kg,None,
+Lamb Shank,,Lamb Shank,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Peppers Pimento,,Peppers Pimento,Generic,3/22/2023,200,100,Kg,gm,88000.0
+skinless boneless chicken thighs,,skinless boneless chicken thighs,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Beef Chuck,,Beef Chuck,Generic,3/22/2023,200,100,Kg,kg,75652.0
+Beef Brain,,Beef Brain,Generic,3/22/2023,200,100,Kg,kg,17600.0
+Beef Kidney,,Beef Kidney,Generic,3/22/2023,200,100,Kg,None,
+Beef Mince,,Beef Mince,Generic,3/22/2023,200,100,Kg,kg,11160.0
+Beef Tongue,,Beef Tongue,Generic,3/22/2023,200,100,Kg,None,
+Chicken Full,,Chicken Full,Generic,3/22/2023,200,100,Kg,gm,360000.0
+Beef Veal,,Beef Veal,Generic,3/22/2023,200,100,Kg,gm,210000.0
+Beef Ribeye Steak,,Beef Ribeye Steak,Generic,3/22/2023,200,100,Kg,u,
+Beef Flank,,Beef Flank,Generic,3/22/2023,200,100,Kg,None,
+Cheese Cream,,Cheese Cream,Generic,3/22/2023,200,100,Kg,gm,184000.0
+Lamb Bone in Leg,,Lamb Bone in Leg,Generic,3/22/2023,200,100,Kg,gm,26666000.0
+Lamb Loin Chop,,Lamb Loin Chop,Generic,3/22/2023,200,100,Kg,None,
+Beef Brisket,,Beef Brisket,Generic,3/22/2023,200,100,Kg,None,
+Beef Loin,,Beef Loin,Generic,3/22/2023,200,100,Kg,ml,
+Lamb Rack,,Lamb Rack,Generic,3/22/2023,200,100,Kg,None,
+Lamb Ribs,,Lamb Ribs,Generic,3/22/2023,200,100,Kg,u,
+Garcinia Gummi Gutta,,Garcinia Gummi Gutta,Generic,3/22/2023,200,100,Kg,None,
+Tandoori Naan,,Tandoori Naan,Generic,3/22/2023,200,100,Kg,gm,84000.0
+Tomato Juice,,Tomato Juice,Generic,3/22/2023,200,100,Kg,kg,19666.0
+Goat Ground,,Goat Ground,Generic,3/22/2023,200,100,Kg,ml,
+Bengal Gram Split,,Bengal Gram Split,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Goat Brain,,Goat Brain,Generic,3/22/2023,200,100,Kg,ml,
+Goat Tongue,,Goat Tongue,Generic,3/22/2023,200,100,Kg,ml,
+Goat Trotter,,Goat Trotter,Generic,3/22/2023,200,100,Kg,ml,
+Goat Sirloin Chop,,Goat Sirloin Chop,Generic,3/22/2023,200,100,Kg,ml,
+Goat kabob & Stew,,Goat kabob & Stew,Generic,3/22/2023,200,100,Kg,ml,
+Gelatin Powder,,Gelatin Powder,Generic,3/22/2023,200,100,Kg,gm,132000.0
+Goat Loin Chop,,Goat Loin Chop,Generic,3/22/2023,200,100,Kg,ml,
+Goat Shoulder chop,,Goat Shoulder chop,Generic,3/22/2023,200,100,Kg,ml,
+Chana Dal,,Chana Dal,Generic,3/22/2023,200,100,Kg,kg,15800.0
+Goat BRT boneless,,Goat BRT boneless,Generic,3/22/2023,200,100,Kg,ml,
+Goat Kidney,,Goat Kidney,Generic,3/22/2023,200,100,Kg,ml,
+Egg Yolks,,Egg Yolks,Generic,3/22/2023,200,100,Kg,gm,76000.0
+Flour All Purpose,,Flour All Purpose,Generic,3/22/2023,200,100,Kg,ml,
+Flour Unbleached,,Flour Unbleached,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Sugar,,Sugar,Generic,3/22/2023,200,100,Kg,kg,9120.0
+Sugar Granulated,,Sugar Granulated,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Baking Soda,,Baking Soda,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Flour Bread,,Flour Bread,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Rice,,Rice,Generic,3/22/2023,200,100,Kg,kg,14180.0
+Rice Brown,,Rice Brown,Generic,3/22/2023,200,100,Kg,kg,17600.0
+Rice Long Grain,,Rice Long Grain,Generic,3/22/2023,200,100,Kg,kg,11400.0
+Black Tea,,Black Tea,Generic,3/22/2023,200,100,Kg,gm,178000.0
+French Bread,,French Bread,Generic,3/22/2023,200,100,Kg,gm,16000.0
+Tea Black,,Tea Black,Generic,3/22/2023,200,100,Kg,gm,178000.0
+Beans French,,Beans French,Generic,3/22/2023,200,100,Kg,gm,16000.0
+Corn,,Corn,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Corn Kernels,,Corn Kernels,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Salt,,Salt,Generic,3/22/2023,200,100,Kg,kg,5000.0
+Sweet Corn,,Sweet Corn,Generic,3/22/2023,200,100,Kg,gm,200000.0
+Tomato Puree,,Tomato Puree,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Beans,,Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Beef Broth,,Beef Broth,Generic,3/22/2023,200,100,Kg,ml,
+Chicken Broth,,Chicken Broth,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chicken Stock,,Chicken Stock,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Chickpea,,Chickpea,Generic,3/22/2023,200,100,Kg,kg,39800.0
+Cluster Beans,,Cluster Beans,Generic,3/22/2023,200,100,Kg,gm,20000.0
+Corn Starch,,Corn Starch,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Plain Yogurt,,Plain Yogurt,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Red Kidney Beans,,Red Kidney Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Tzatziki Sauce,,Tzatziki Sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+White Beans,,White Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Beans Black Eyed,,Beans Black Eyed,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Flour Amarnath,,Flour Amarnath,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Millet flour,,Millet flour,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Pasta,,Pasta,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Fruit Cocktail,,Fruit Cocktail,Generic,3/22/2023,200,100,Kg,ml,
+Margarine,,Margarine,Generic,3/22/2023,200,100,Kg,gm,82000.0
+Noodle,,Noodle,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Peach,,Peach,Generic,3/22/2023,200,100,Kg,ml,
+Pear Prickley,,Pear Prickley,Generic,3/22/2023,200,100,Kg,gm,130000.0
+Pink Lentils,,Pink Lentils,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Barley,,Barley,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Beans Red Kidney,,Beans Red Kidney,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Cardamom Green,,Cardamom Green,Generic,3/22/2023,200,100,Kg,gm,320000.0
+Chicken Liver,,Chicken Liver,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Chilli Green,,Chilli Green,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Green Gram split skinned,,Green Gram split skinned,Generic,3/22/2023,200,100,Kg,gm,1224000.0
+Green Gram Split with skin,,Green Gram Split with skin,Generic,3/22/2023,200,100,Kg,gm,1224000.0
+Green Gram Whole,,Green Gram Whole,Generic,3/22/2023,200,100,Kg,gm,56000.0
+Lentil,,Lentil,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Lentils Whole Brown,,Lentils Whole Brown,Generic,3/22/2023,200,100,Kg,gm,198000.0
+Split Black Lentils,,Split Black Lentils,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Split Pea,,Split Pea,Generic,3/22/2023,200,100,Kg,kg,9000.0
+Split Pigeon Peas,,Split Pigeon Peas,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Sugar Confectioners,,Sugar Confectioners,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Sugar Powdered,,Sugar Powdered,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Wheat Whole,,Wheat Whole,Generic,3/22/2023,200,100,Kg,kg,12200.0
+Beans Field,,Beans Field,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Beans Hyacinth,,Beans Hyacinth,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Double Beans,,Double Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Elbow,,Elbow,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Field Bean,,Field Bean,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Moth Beans,,Moth Beans,Generic,3/22/2023,200,100,Kg,gm,50000.0
+Pea Pigeon,,Pea Pigeon,Generic,3/22/2023,200,100,Kg,kg,9000.0
+Peas Pigeon,,Peas Pigeon,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Penne Pasta,,Penne Pasta,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Spaghetti,,Spaghetti,Generic,3/22/2023,200,100,Kg,gm,60000.0
+Sword Beans,,Sword Beans,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Brownie,,Brownie,Generic,3/22/2023,200,100,Kg,gm,164000.0
+Egg Noodle,,Egg Noodle,Generic,3/22/2023,200,100,Kg,gm,66000.0
+French Fries,,French Fries,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Okra,,Okra,Generic,3/22/2023,200,100,Kg,None,
+Rice Basmati,,Rice Basmati,Generic,3/22/2023,200,100,Kg,kg,13800.0
+Rice Instant,,Rice Instant,Generic,3/22/2023,200,100,Kg,kg,13200.0
+Chocolate Syrup,,Chocolate Syrup,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Yellow Cornmeal,,Yellow Cornmeal,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Cheese Cottage,,Cheese Cottage,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Coriander Leaf,,Coriander Leaf,Generic,3/22/2023,200,100,Kg,gm,62000.0
+Curd Lowfat,,Curd Lowfat,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Curry Leaf,,Curry Leaf,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Greek Yogurt Lowfat,,Greek Yogurt Lowfat,Generic,3/22/2023,200,100,Kg,gm,106000.0
+Green Pea,,Green Pea,Generic,3/22/2023,200,100,Kg,kg,9000.0
+Pea,,Pea,Generic,3/22/2023,200,100,Kg,kg,9000.0
+Yogurt,,Yogurt,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Barbecue Sauce,,Barbecue Sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Flour Cake,,Flour Cake,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Oat,,Oat,Generic,3/22/2023,200,100,Kg,kg,31334.0
+Salad,,Salad,Generic,3/22/2023,200,100,Kg,gm,198000.0
+Spinach Malabar,,Spinach Malabar,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Tomato Paste,,Tomato Paste,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Bean Sprouts,,Bean Sprouts,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Biscuit,,Biscuit,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Biscuit Dough,,Biscuit Dough,Generic,3/22/2023,200,100,Kg,gm,164000.0
+Cake,,Cake,Generic,3/22/2023,200,100,Kg,gm,78000.0
+Chili,,Chili,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Cream Of Chicken Soup,,Cream Of Chicken Soup,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Cream Of Mushroom,,Cream Of Mushroom,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Peanut,,Peanut,Generic,3/22/2023,200,100,Kg,gm,50000.0
+Rice Flour,,Rice Flour,Generic,3/22/2023,200,100,Kg,gm,8000.0
+Sour Cream,,Sour Cream,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Water Chestnuts,,Water Chestnuts,Generic,3/22/2023,200,100,Kg,ml,
+White Peas,,White Peas,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Yogurt Greek,,Yogurt Greek,Generic,3/22/2023,200,100,Kg,gm,106000.0
+Black Currant,,Black Currant,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Bread Crumb,,Bread Crumb,Generic,3/22/2023,200,100,Kg,gm,38000.0
+Hoisin Sauce,,Hoisin Sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Minced Garlic,,Minced Garlic,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Sushi rice,,Sushi rice,Generic,3/22/2023,200,100,Kg,kg,13200.0
+Wheat Starch,,Wheat Starch,Generic,3/22/2023,200,100,Kg,kg,10600.0
+Bread Brown,,Bread Brown,Generic,3/22/2023,200,100,Kg,kg,17600.0
+Coconut,,Coconut,Generic,3/22/2023,200,100,Kg,gm,46000.0
+Condensed Milk,,Condensed Milk,Generic,3/22/2023,200,100,Kg,gm,56000.0
+Flour Semolina,,Flour Semolina,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Ketchup,,Ketchup,Generic,3/22/2023,200,100,Kg,kg,19666.0
+Mustard,,Mustard,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Semolina,,Semolina,Generic,3/22/2023,200,100,Kg,kg,9600.0
+Sugar Brown,,Sugar Brown,Generic,3/22/2023,200,100,Kg,kg,29800.0
+Sweetened Condensed Milk,,Sweetened Condensed Milk,Generic,3/22/2023,200,100,Kg,gm,56000.0
+Tomato Ketchup,,Tomato Ketchup,Generic,3/22/2023,200,100,Kg,kg,19666.0
+White Bread,,White Bread,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Yellow Mustard,,Yellow Mustard,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Bread,,Bread,Generic,3/22/2023,200,100,Kg,gm,38000.0
+Chickpea Flour,,Chickpea Flour,Generic,3/22/2023,200,100,Kg,kg,39800.0
+Cream Of Celery Soup,,Cream Of Celery Soup,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Gram Flour,,Gram Flour,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Peanut Butter,,Peanut Butter,Generic,3/22/2023,200,100,Kg,gm,44000.0
+Rice Sushi,,Rice Sushi,Generic,3/22/2023,200,100,Kg,kg,13200.0
+Whole Grain Bread,,Whole Grain Bread,Generic,3/22/2023,200,100,Kg,gm,198000.0
+Flour Spelt,,Flour Spelt,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Mango,,Mango,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Mango Ripe,,Mango Ripe,Generic,3/22/2023,200,100,Kg,kg,29000.0
+Raisin,,Raisin,Generic,3/22/2023,200,100,Kg,gm,68000.0
+Red Lentil,,Red Lentil,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Tea Biscuit,,Tea Biscuit,Generic,3/22/2023,200,100,Kg,gm,86000.0
+Bell Pepper,,Bell Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Butter,,Butter,Generic,3/22/2023,200,100,Kg,gm,102000.0
+Butter Salted,,Butter Salted,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Butter Unsalted,,Butter Unsalted,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Flour Rye,,Flour Rye,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Hamburger Buns,,Hamburger Buns,Generic,3/22/2023,200,100,Kg,gm,150000.0
+Instant Noodle,,Instant Noodle,Generic,3/22/2023,200,100,Kg,gm,66000.0
+Lettuce,,Lettuce,Generic,3/22/2023,200,100,Kg,None,
+Red Bell Pepper,,Red Bell Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Roti,,Roti,Generic,3/22/2023,200,100,Kg,None,
+Saltine Crackers,,Saltine Crackers,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Wheat Broken,,Wheat Broken,Generic,3/22/2023,200,100,Kg,kg,10600.0
+Yellow Bell Pepper,,Yellow Bell Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Chicken Pieces With Bone,,Chicken Pieces With Bone,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Flour Pastry,,Flour Pastry,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Lasagna,,Lasagna,Generic,3/22/2023,200,100,Kg,None,
+Sriracha Sauce,,Sriracha Sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Graham Crackers,,Graham Crackers,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Melon,,Melon,Generic,3/22/2023,200,100,Kg,gm,12126000.0
+Cheese,,Cheese,Generic,3/22/2023,200,100,Kg,gm,110000.0
+Olive,,Olive,Generic,3/22/2023,200,100,Kg,l,129900.0
+Pineapple,,Pineapple,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Salt Pink,,Salt Pink,Generic,3/22/2023,200,100,Kg,gm,192000.0
+Beef Liver,,Beef Liver,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Goat Liver,,Goat Liver,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Lamb Liver,,Lamb Liver,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Flour Bleached,,Flour Bleached,Generic,3/22/2023,200,100,Kg,ml,
+Oil Flaxseed,,Oil Flaxseed,Generic,3/22/2023,200,100,Kg,ml,
+Bread Pita,,Bread Pita,Generic,3/22/2023,200,100,Kg,gm,38000.0
+Onion Ring,,Onion Ring,Generic,3/22/2023,200,100,Kg,ml,
+Oreo,,Oreo,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Stick Cinnamon,,Stick Cinnamon,Generic,3/22/2023,200,100,Kg,gm,172000.0
+Caramel,,Caramel,Generic,3/22/2023,200,100,Kg,gm,94000.0
+Flour Buckwheat,,Flour Buckwheat,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Mustard Sauce,,Mustard Sauce,Generic,3/22/2023,200,100,Kg,gm,84000.0
+Sugar White,,Sugar White,Generic,3/22/2023,200,100,Kg,gm,18000.0
+Coconut Desicated,,Coconut Desicated,Generic,3/22/2023,200,100,Kg,gm,46000.0
+Coconut Flake,,Coconut Flake,Generic,3/22/2023,200,100,Kg,gm,46000.0
+Cranberries,,Cranberries,Generic,3/22/2023,200,100,Kg,gm,198000.0
+Dried Plum,,Dried Plum,Generic,3/22/2023,200,100,Kg,gm,398000.0
+Avocados,,Avocados,Generic,3/22/2023,200,100,Kg,ml,
+Beef Bone Marrow,,Beef Bone Marrow,Generic,3/22/2023,200,100,Kg,gm,26666000.0
+Bone marrow,,Bone marrow,Generic,3/22/2023,200,100,Kg,gm,26666000.0
+Cheese Cheddar,,Cheese Cheddar,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Cheese Shredded Cheddar,,Cheese Shredded Cheddar,Generic,3/22/2023,200,100,Kg,gm,122000.0
+Cheese Swiss,,Cheese Swiss,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Chili Green,,Chili Green,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Flour White Whole Wheat,,Flour White Whole Wheat,Generic,3/22/2023,200,100,Kg,kg,10600.0
+Green Chili,,Green Chili,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Mushroom,,Mushroom,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Sweet And Low,,Sweet And Low,Generic,3/22/2023,200,100,Kg,gm,68000.0
+Wheat Grounded,,Wheat Grounded,Generic,3/22/2023,200,100,Kg,kg,10600.0
+Chocolate Chip,,Chocolate Chip,Generic,3/22/2023,200,100,Kg,gm,200000.0
+Corn Flake,,Corn Flake,Generic,3/22/2023,200,100,Kg,gm,62000.0
+Rice Noodles,,Rice Noodles,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Quinoa,,Quinoa,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Rice Wild,,Rice Wild,Generic,3/22/2023,200,100,Kg,kg,13200.0
+Seasoning,,Seasoning,Generic,3/22/2023,200,100,Kg,gm,86000.0
+Tapioca Pearl,,Tapioca Pearl,Generic,3/22/2023,200,100,Kg,ml,
+Tikka Masala,,Tikka Masala,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Biscuit Digestive,,Biscuit Digestive,Generic,3/22/2023,200,100,Kg,kg,27800.0
+Digestive biscuit,,Digestive biscuit,Generic,3/22/2023,200,100,Kg,kg,27800.0
+Golden Raisin,,Golden Raisin,Generic,3/22/2023,200,100,Kg,gm,68000.0
+Strawberry Jello,,Strawberry Jello,Generic,3/22/2023,200,100,Kg,gm,76000.0
+BlueBerry,,BlueBerry,Generic,3/22/2023,200,100,Kg,gm,398000.0
+Black Lentils,,Black Lentils,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Chaat Masala,,Chaat Masala,Generic,3/22/2023,200,100,Kg,gm,120000.0
+Crackers,,Crackers,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Gram Dal,,Gram Dal,Generic,3/22/2023,200,100,Kg,gm,22000.0
+Green Olive,,Green Olive,Generic,3/22/2023,200,100,Kg,gm,84000.0
+Vermicelli,,Vermicelli,Generic,3/22/2023,200,100,Kg,gm,40000.0
+Cashew,,Cashew,Generic,3/22/2023,200,100,Kg,gm,144000.0
+Horseradish,,Horseradish,Generic,3/22/2023,200,100,Kg,None,
+Black Olives,,Black Olives,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Green Chutney,,Green Chutney,Generic,3/22/2023,200,100,Kg,gm,48000.0
+Honey,,Honey,Generic,3/22/2023,200,100,Kg,kg,73800.0
+Roll,,Roll,Generic,3/22/2023,200,100,Kg,gm,56000.0
+Sorghum,,Sorghum,Generic,3/22/2023,200,100,Kg,kg,14800.0
+Spinach,,Spinach,Generic,3/22/2023,200,100,Kg,None,
+Sugar Icing,,Sugar Icing,Generic,3/22/2023,200,100,Kg,gm,18000.0
+baking powder,,baking powder,Generic,3/22/2023,200,100,Kg,gm,88000.0
+Cherry Tomato,,Cherry Tomato,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Chip,,Chip,Generic,3/22/2023,200,100,Kg,gm,76000.0
+Potato Stick,,Potato Stick,Generic,3/22/2023,200,100,Kg,kg,5600.0
+Wheat Biscuit,,Wheat Biscuit,Generic,3/22/2023,200,100,Kg,gm,120000.0
+Caramel Sauce,,Caramel Sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Chicken Tikka,,Chicken Tikka,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Chili garlic sauce,,Chili garlic sauce,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Chili Paste,,Chili Paste,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Equal,,Equal,Generic,3/22/2023,200,100,Kg,None,
+Yellow Lentil,,Yellow Lentil,Generic,3/22/2023,200,100,Kg,gm,146000.0
+Cheese Mozzarella,,Cheese Mozzarella,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Cheese Provolone,,Cheese Provolone,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Prune,,Prune,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Walnut,,Walnut,Generic,3/22/2023,200,100,Kg,gm,240000.0
+Tamarind Chutney,,Tamarind Chutney,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Finger Millet,,Finger Millet,Generic,3/22/2023,200,100,Kg,kg,7600.0
+Flour Millet,,Flour Millet,Generic,3/22/2023,200,100,Kg,gm,14000.0
+Flour White Millet,,Flour White Millet,Generic,3/22/2023,200,100,Kg,kg,14800.0
+Cocoa Powder Unsweetened,,Cocoa Powder Unsweetened,Generic,3/22/2023,200,100,Kg,gm,232000.0
+Coriander Powder,,Coriander Powder,Generic,3/22/2023,200,100,Kg,gm,40000.0
+Curd,,Curd,Generic,3/22/2023,200,100,Kg,gm,42000.0
+Monk Fruit,,Monk Fruit,Generic,3/22/2023,200,100,Kg,gm,220000.0
+Pumpkin Seeds,,Pumpkin Seeds,Generic,3/22/2023,200,100,Kg,gm,192000.0
+Sunflower Seeds,,Sunflower Seeds,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Chutney,,Chutney,Generic,3/22/2023,200,100,Kg,gm,84000.0
+Chana,,Chana,Generic,3/22/2023,200,100,Kg,gm,56000.0
+Chickpeas Black,,Chickpeas Black,Generic,3/22/2023,200,100,Kg,kg,39800.0
+Brown Bread,,Brown Bread,Generic,3/22/2023,200,100,Kg,kg,17600.0
+Paratha,,Paratha,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Dates,,Dates,Generic,3/22/2023,200,100,Kg,gm,74000.0
+Green onion,,Green onion,Generic,3/22/2023,200,100,Kg,ml,
+Lamb,,Lamb,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Lamb BRT boneless,,Lamb BRT boneless,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Lamb Ground,,Lamb Ground,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Lamb kabob & Stew,,Lamb kabob & Stew,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Lamb Kidney,,Lamb Kidney,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Lamb Sirloin Chop,,Lamb Sirloin Chop,Generic,3/22/2023,200,100,Kg,None,
+Lamb Trotter,,Lamb Trotter,Generic,3/22/2023,200,100,Kg,gm,1280000.0
+Onion Green,,Onion Green,Generic,3/22/2023,200,100,Kg,ml,
+Egg Hard Boiled,,Egg Hard Boiled,Generic,3/22/2023,200,100,Kg,kg,8200.0
+Spaghetti Noodle,,Spaghetti Noodle,Generic,3/22/2023,200,100,Kg,gm,66000.0
+Spring Roll,,Spring Roll,Generic,3/22/2023,200,100,Kg,gm,106000.0
+Apricot,,Apricot,Generic,3/22/2023,200,100,Kg,gm,126000.0
+Spices,,Spices,Generic,3/22/2023,200,100,Kg,gm,298000.0
+Spinach Baby,,Spinach Baby,Generic,3/22/2023,200,100,Kg,ml,
+Almond,,Almond,Generic,3/22/2023,200,100,Kg,gm,140000.0
+Cheese Parmesan,,Cheese Parmesan,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Goat Cubes,,Goat Cubes,Generic,3/22/2023,200,100,Kg,ml,
+Naan,,Naan,Generic,3/22/2023,200,100,Kg,gm,54000.0
+Cloves Garlic,,Cloves Garlic,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Ginger garlic paste,,Ginger garlic paste,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Cocoa Powder,,Cocoa Powder,Generic,3/22/2023,200,100,Kg,gm,232000.0
+Pomegranate,,Pomegranate,Generic,3/22/2023,200,100,Kg,l,63600.0
+Frankfurters,,Frankfurters,Generic,3/22/2023,200,100,Kg,None,
+Milk Chocolate,,Milk Chocolate,Generic,3/22/2023,200,100,Kg,gm,360000.0
+Carom Seeds,,Carom Seeds,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Dark Chocolate,,Dark Chocolate,Generic,3/22/2023,200,100,Kg,gm,522000.0
+Cheese Spread,,Cheese Spread,Generic,3/22/2023,200,100,Kg,gm,92000.0
+Chocolate,,Chocolate,Generic,3/22/2023,200,100,Kg,gm,450000.0
+Figs,,Figs,Generic,3/22/2023,200,100,Kg,gm,200000.0
+Fried onion,,Fried onion,Generic,3/22/2023,200,100,Kg,ml,
+Cinnamon,,Cinnamon,Generic,3/22/2023,200,100,Kg,gm,172000.0
+Peppercorn,,Peppercorn,Generic,3/22/2023,200,100,Kg,None,
+Flour Self Rising,,Flour Self Rising,Generic,3/22/2023,200,100,Kg,kg,7800.0
+Chicken Seasoning,,Chicken Seasoning,Generic,3/22/2023,200,100,Kg,gm,346000.0
+Cheese Soft,,Cheese Soft,Generic,3/22/2023,200,100,Kg,gm,114000.0
+Paprika,,Paprika,Generic,3/22/2023,200,100,Kg,gm,266000.0
+Onion Powder,,Onion Powder,Generic,3/22/2023,200,100,Kg,ml,
+Dry Chili,,Dry Chili,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Garlic Powder,,Garlic Powder,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Splenda,,Splenda,Generic,3/22/2023,200,100,Kg,None,
+Burger Bun,,Burger Bun,Generic,3/22/2023,200,100,Kg,gm,62000.0
+Dry Fruits,,Dry Fruits,Generic,3/22/2023,200,100,Kg,gm,140000.0
+Lemon Zest,,Lemon Zest,Generic,3/22/2023,200,100,Kg,gm,80000.0
+Raw Pistachios Shelled,,Raw Pistachios Shelled,Generic,3/22/2023,200,100,Kg,gm,248000.0
+Goat Rack,,Goat Rack,Generic,3/22/2023,200,100,Kg,ml,
+Black Pepper,,Black Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Ground Black Pepper,,Ground Black Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Pistachio,,Pistachio,Generic,3/22/2023,200,100,Kg,gm,248000.0
+Butter Clarified,,Butter Clarified,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Chili Powder,,Chili Powder,Generic,3/22/2023,200,100,Kg,gm,98000.0
+Goat,,Goat,Generic,3/22/2023,200,100,Kg,ml,
+Poppy Seeds,,Poppy Seeds,Generic,3/22/2023,200,100,Kg,gm,388000.0
+Red Curry Paste,,Red Curry Paste,Generic,3/22/2023,200,100,Kg,gm,224000.0
+Cumin,,Cumin,Generic,3/22/2023,200,100,Kg,gm,86000.0
+Garlic Paste,,Garlic Paste,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Ginger Paste,,Ginger Paste,Generic,3/22/2023,200,100,Kg,gm,24000.0
+Amaranth Leaves,,Amaranth Leaves,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Chives Leaves,,Chives Leaves,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Cilantro Leaves,,Cilantro Leaves,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Acacia Gum,,Acacia Gum,Generic,3/22/2023,200,100,Kg,gm,410000.0
+Lady Finger,,Lady Finger,Generic,3/22/2023,200,100,Kg,gm,20000.0
+Yeast,,Yeast,Generic,3/22/2023,200,100,Kg,gm,216000.0
+Coconut Fresh,,Coconut Fresh,Generic,3/22/2023,200,100,Kg,gm,46000.0
+Garam Masala,,Garam Masala,Generic,3/22/2023,200,100,Kg,gm,142000.0
+Fennel Seed,,Fennel Seed,Generic,3/22/2023,200,100,Kg,gm,68000.0
+Dry Fenugreek Leaves,,Dry Fenugreek Leaves,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Sesame Seed,,Sesame Seed,Generic,3/22/2023,200,100,Kg,gm,50000.0
+Stevia,,Stevia,Generic,3/22/2023,200,100,Kg,gm,144000.0
+Caraway Seeds,,Caraway Seeds,Generic,3/22/2023,200,100,Kg,gm,32000.0
+Aspartame,,Aspartame,Generic,3/22/2023,200,100,Kg,None,
+Turmeric,,Turmeric,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Coffee Powder,,Coffee Powder,Generic,3/22/2023,200,100,Kg,gm,454000.0
+Instant Coffee Powder,,Instant Coffee Powder,Generic,3/22/2023,200,100,Kg,gm,454000.0
+Gelatin,,Gelatin,Generic,3/22/2023,200,100,Kg,None,
+Mint Leaf,,Mint Leaf,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Coriander,,Coriander,Generic,3/22/2023,200,100,Kg,gm,62000.0
+Erythritol,,Erythritol,Generic,3/22/2023,200,100,Kg,None,
+Basil,,Basil,Generic,3/22/2023,200,100,Kg,None,
+Curry Powder,,Curry Powder,Generic,3/22/2023,200,100,Kg,gm,132000.0
+Mustard Seed,,Mustard Seed,Generic,3/22/2023,200,100,Kg,gm,30000.0
+Garlic,,Garlic,Generic,3/22/2023,200,100,Kg,gm,26000.0
+Mango Green,,Mango Green,Generic,3/22/2023,200,100,Kg,kg,29000.0
+Mango Powder,,Mango Powder,Generic,3/22/2023,200,100,Kg,gm,156000.0
+White Pepper,,White Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Tea Green,,Tea Green,Generic,3/22/2023,200,100,Kg,gm,178000.0
+Black Cumin Seed,,Black Cumin Seed,Generic,3/22/2023,200,100,Kg,gm,86000.0
+Cumin Seed,,Cumin Seed,Generic,3/22/2023,200,100,Kg,gm,86000.0
+Dried Oregano,,Dried Oregano,Generic,3/22/2023,200,100,Kg,gm,2114000.0
+Dried Thyme,,Dried Thyme,Generic,3/22/2023,200,100,Kg,gm,398000.0
+Orange Zest,,Orange Zest,Generic,3/22/2023,200,100,Kg,l,6844.0
+Black Cardamom,,Black Cardamom,Generic,3/22/2023,200,100,Kg,gm,320000.0
+Cardamom,,Cardamom,Generic,3/22/2023,200,100,Kg,gm,424000.0
+Cardamom Brown,,Cardamom Brown,Generic,3/22/2023,200,100,Kg,gm,320000.0
+Green cardamom,,Green cardamom,Generic,3/22/2023,200,100,Kg,gm,320000.0
+Pepper,,Pepper,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Allspice,,Allspice,Generic,3/22/2023,200,100,Kg,None,
+Chives,,Chives,Generic,3/22/2023,200,100,Kg,gm,76000.0
+Dried Parsley,,Dried Parsley,Generic,3/22/2023,200,100,Kg,gm,398000.0
+Pepper White,,Pepper White,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Chili Red,,Chili Red,Generic,3/22/2023,200,100,Kg,gm,176000.0
+Red Pepper Flakes,,Red Pepper Flakes,Generic,3/22/2023,200,100,Kg,gm,276000.0
+Rosemary Leaves,,Rosemary Leaves,Generic,3/22/2023,200,100,Kg,ml,
+Herb,,Herb,Generic,3/22/2023,200,100,Kg,gm,2114000.0
+Coriander Seed,,Coriander Seed,Generic,3/22/2023,200,100,Kg,gm,62000.0
+Oregano,,Oregano,Generic,3/22/2023,200,100,Kg,gm,2114000.0
+Thyme,,Thyme,Generic,3/22/2023,200,100,Kg,None,
+Radish Pods,,Radish Pods,Generic,3/22/2023,200,100,Kg,ml,
+Cilantro,,Cilantro,Generic,3/22/2023,200,100,Kg,None,
+Dill,,Dill,Generic,3/22/2023,200,100,Kg,kg,15800.0
+Parsley,,Parsley,Generic,3/22/2023,200,100,Kg,None,
+Clove,,Clove,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Star Anise,,Star Anise,Generic,3/22/2023,200,100,Kg,gm,260000.0
+Dried Marjoram,,Dried Marjoram,Generic,3/22/2023,200,100,Kg,gm,398000.0
+Bay Leaf,,Bay Leaf,Generic,3/22/2023,200,100,Kg,gm,64000.0
+Saffron,,Saffron,Generic,3/22/2023,200,100,Kg,ml,
+Beef Short Plate,,Beef Short Plate,Generic,3/22/2023,200,100,Kg,u,
+Corn Flour,,Corn Flour,Generic,3/22/2023,200,100,Kg,gm,52000.0
+Flour Instant,,Flour Instant,Generic,3/22/2023,200,100,Kg,gm,454000.0
+Salt Khosher,,Salt Khosher,Generic,3/22/2023,200,100,Kg,gm,36000.0
+Chicken Mince,,Chicken Mince,Generic,3/22/2023,200,100,Kg,gm,112000.0
+Soya Bean,,Soya Bean,Generic,3/22/2023,200,100,Kg,gm,28000.0
+Ice Cream,,Ice Cream,Generic,3/22/2023,200,100,Kg,gm,116000.0
+Vanilla Ice Cream,,Vanilla Ice Cream,Generic,3/22/2023,200,100,Kg,gm,116000.0
