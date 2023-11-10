@@ -1,0 +1,567 @@
+ingredient,local_alias,product_name,brand_name,expiry_date,minQty,qty,unit,price
+Acacia Gum,"Gundar, Gondh, Arabic Gum, Kumta, Gencive, Goondar",Acacia Gum,Generic,,100,100,kg,0
+Agar,"China Grass, Falooda Powder, Faluda Powder",Agar,Generic,,100,100,kg,0
+Allspice,"Épice, Kashmiri Poudre",Allspice,Generic,,100,100,kg,0
+Almond,"Almonds, Badaam, Amande, Badam",Almond,Generic,,100,100,kg,0
+Amaranth Leaves,"Chauli, Chaulai, L'amarante part, Feuilles d'amarante",Amaranth Leaves,Generic,,100,100,kg,0
+Anamalaho,"Bredes Mafane, Baji",Anamalaho,Generic,,100,100,kg,0
+Anatsonga,"Bredes Moutarde, Baji",Anatsonga,Generic,,100,100,kg,0
+Apple,"Apples, Seb, Toffa, Pomme, apples",Apple,Generic,,100,100,kg,0
+Apple Juice,"Jus De Pomme, Toffa Juice",Apple Juice,Generic,,100,100,liter,0
+Apricot,"Apricots, Jardalu, Khubaanee, Abricot",Apricot,Generic,,100,100,kg,0
+Ash Gourd,"Rakh Laukee, Winter Melon, Chinese Water Melon, White Pumpkin, Gourde Cendre, Petha",Ash Gourd,Generic,,100,100,kg,0
+Aspartame,"Sugar Substitute, Zero Calorie Sweetener",Aspartame,Generic,,100,100,kg,0
+Avocados,Avocats,Avocados,Generic,,100,100,kg,0
+Babycorns,"Corn, Babbdcorns, Corn Kernels, Makai, Bhutta, Baby Corn",Babycorns,Generic,,100,100,kg,0
+baking powder,levure chimique,baking powder,Generic,,100,100,kg,0
+Baking Soda,"Baking Sodas, Bicarbonate De Soude",Baking Soda,Generic,,100,100,kg,0
+Banana,"Kela, Bananas, Banane",Banana,Generic,,100,100,kg,0
+Barbecue Sauce,"Sauce barbecue, Barbecue sauce",Barbecue Sauce,Generic,,100,100,liter,0
+Barley,"Barleys, Jau, Jaav, Orge, Jaav/Orge",Barley,Generic,,100,100,kg,0
+Basil,"Basils, Tulsee, Basilic, basil leaves, Tulsi, dried basil leaves",Basil,Generic,,100,100,kg,0
+Bay Leaf,"Bay Leaves, Tej Patta, Feuille De Laurier, Bay Leaf, Taj Feuille",Bay Leaf,Generic,,100,100,kg,0
+Bean Sprouts,"Ankurit Phaliyaan, Germes de soja, Bean sprouts, Pousses de haricots",Bean Sprouts,Generic,,100,100,kg,0
+Beans,"Phaliyaan, Des haricots, Haricots",Beans,Generic,,100,100,kg,0
+Beans Black Eyed,"Lobia, Haricots Noirs Aux Yeux, Black Eyed Beans",Beans Black Eyed,Generic,,100,100,kg,0
+Beans Field,"Val, Champ de haricots",Beans Field,Generic,,100,100,kg,0
+Beans French,"French Beans, Fansi, Haricots Verts, Haricots français",Beans French,Generic,,100,100,kg,0
+Beans Hyacinth,"Sem Ki Phali, Papdi, Haricots jacinthes, Hyacinth Beans",Beans Hyacinth,Generic,,100,100,kg,0
+Beans Red Kidney,"Rajma, Haricots rouges",Beans Red Kidney,Generic,,100,100,kg,0
+Beef,"Moto ghost, Beefs, Bœuf, beef, Hena Tolana",Beef,Generic,,100,100,kg,0
+Beef Bone Marrow,"Nali, Moelle Osseuse De Boeuf",Beef Bone Marrow,Generic,,100,100,kg,0
+Beef Brain,Cerveau De Bœuf,Beef Brain,Generic,,100,100,kg,0
+Beef Brisket,Poitrine De Boeuf,Beef Brisket,Generic,,100,100,kg,0
+Beef Broth,"Bouillon de boeuf, beef broth, bouillon de bœuf",Beef Broth,Generic,,100,100,liter,0
+Beef Chuck,Froirie De Boeuf,Beef Chuck,Generic,,100,100,kg,0
+Beef Chuck Steak,"Boeuf Chuck Steak, Steak de boeuf Chuck",Beef Chuck Steak,Generic,,100,100,kg,0
+Beef Flank,Flanc De Bœuf,Beef Flank,Generic,,100,100,kg,0
+Beef Kidney,Rein De Bœuf,Beef Kidney,Generic,,100,100,kg,0
+Beef Liver,Foie Boeuf,Beef Liver,Generic,,100,100,kg,0
+Beef Loin,Longe  Bœuf,Beef Loin,Generic,,100,100,kg,0
+Beef Mince,"Beef Minces, Moto Ghost Kheema, Boeuf Haché",Beef Mince,Generic,,100,100,kg,0
+Beef Rib,Côte  Boeuf,Beef Rib,Generic,,100,100,kg,0
+Beef Ribeye Steak,Steak  Ribeye  Bœuf,Beef Ribeye Steak,Generic,,100,100,kg,0
+Beef Round,Boeuf Rond,Beef Round,Generic,,100,100,kg,0
+Beef Shank,Tige  Bœuf,Beef Shank,Generic,,100,100,kg,0
+Beef Short Plate,Assiette Courte  Bœuf,Beef Short Plate,Generic,,100,100,kg,0
+Beef Sirloin,Surlonge  Bœuf,Beef Sirloin,Generic,,100,100,kg,0
+Beef Tongue,Langue Bœuf,Beef Tongue,Generic,,100,100,kg,0
+Beef Veal,Veau Boeuf,Beef Veal,Generic,,100,100,kg,0
+Beetroot,"Beetroots, Chukandar, Betterave, Chukanda/Betterave rouge",Beetroot,Generic,,100,100,kg,0
+Bell Pepper,"Bell Peppers, Shimala Mirch, Capsicum, Poivron, Shimla Mirch",Bell Pepper,Generic,,100,100,kg,0
+Bengal Gram Split,"Chana Dal, Split Du Gram Du Bengale, Gram Dal, Split ChickPeas",Bengal Gram Split,Generic,,100,100,kg,0
+Biscuit,"Biscuits, Oreos",Biscuit,Generic,,100,100,kg,0
+Biscuit Dough,"Pâte à biscuit, biscuit dough, pâte à biscuits",Biscuit Dough,Generic,,100,100,kg,0
+Bitter Gourd,"Bitter Gourds, Karela, Bitter Melon, Gourde amère, Bitter melon",Bitter Gourd,Generic,,100,100,kg,0
+Black Cardamom,"Kali Elaichi, Cardamome noire",Black Cardamom,Generic,,100,100,kg,0
+Black Cumin Seed,"Nigella Sativa, Black Seed, Kilongi, Kalongi, Nigella Seeds",Black Cumin Seed,Generic,,100,100,kg,0
+Black Currant,"Kali Draksh, Black Currants, Camion noir",Black Currant,Generic,,100,100,kg,0
+Black Lentils,"Kali Dal, Lentilles noires",Black Lentils,Generic,,100,100,kg,0
+Black Olives,"Zaitun, Olives Noires, Black Olive, Olive, Olives",Black Olives,Generic,,100,100,kg,0
+Black Pepper,"Black Peppers, Kali Mirch, Poivre Noir, Mari",Black Pepper,Generic,,100,100,kg,0
+Black Salt,"Kala Namak, Salt",Black Salt,Generic,,100,100,kg,0
+Black Tea,"Kaali Chai, Thé noir",Black Tea,Generic,,100,100,kg,0
+Blackberry Juice,Blackberry,Blackberry Juice,Generic,,100,100,liter,0
+BlueBerry,"Falsa, Myrtille",BlueBerry,Generic,,100,100,kg,0
+Blueberry Juice,Jus De Myrtille,Blueberry Juice,Generic,,100,100,liter,0
+Bottle Gourd,"Bottle Gourds, Laukee, Gourde, Bottle Gourd, Lauki, Dudi",Bottle Gourd,Generic,,100,100,kg,0
+Bread,"Breads, Pain",Bread,Generic,,100,100,kg,0
+Bread Crumb,"Bread Crumbs, Miette De Pain, Bread Crum",Bread Crumb,Generic,,100,100,kg,0
+Bread Pita,"Pita Breads, Pain pita",Bread Pita,Generic,,100,100,kg,0
+Broccoli,"Broccolis, Brocoli",Broccoli,Generic,,100,100,kg,0
+Brown Bread,Pain Complet,Brown Bread,Generic,,100,100,kg,0
+Brownie,"Brownies, Lutin",Brownie,Generic,,100,100,kg,0
+Brussel Sprouts,"Brussels Sprouts, Choux de Bruxelles",Brussel Sprouts,Generic,,100,100,kg,0
+Burger Bun,"Burger Buns, Burger",Burger Bun,Generic,,100,100,kg,0
+Butter,"Maska, Beurre",Butter,Generic,,100,100,kg,0
+Butter Clarified,"Ghee, Beurre Clarifié, Ghee, Beurre, Pure Ghee",Butter Clarified,Generic,,100,100,kg,0
+Butter Salted,Beurre salé,Butter Salted,Generic,,100,100,kg,0
+Butter Unsalted,"Unsalted Butter, Makkhan, Maska, Beurre non salé, butter, maska",Butter Unsalted,Generic,,100,100,kg,0
+Butterhead Lettuce,"Bibb Lettuce, Boston Lettuce",Butterhead Lettuce,Generic,,100,100,kg,0
+Buttermilk,"Babeurre, Chaas",Buttermilk,Generic,,100,100,liter,0
+Butternut Squash,Courge butternut,Butternut Squash,Generic,,100,100,kg,0
+Cabbage,"Cabbages, Patta Gobi, Chou, cabbage, Patta Gobhi",Cabbage,Generic,,100,100,kg,0
+Cantaloupe,Cantaloup,Cantaloupe,Generic,,100,100,kg,0
+Capsicum,"Capsicums, Shimala Mirch, Latin, Shimla Mirch, Red Capsicum, Yellow Capsicum, Red & Yellow Capsicum, Green Capsicum",Capsicum,Generic,,100,100,kg,0
+Caramel,Caramels,Caramel,Generic,,100,100,kg,0
+Caramel Sauce,Caramel Sauces,Caramel Sauce,Generic,,100,100,liter,0
+Caraway Seeds,"Shahi Jeera, Caraway Seed, Graines de carvi, Caraway seeds, Jirou",Caraway Seeds,Generic,,100,100,kg,0
+Cardamom,"Cardamoms, Ilaayachi, Elaichi, Cardamome",Cardamom,Generic,,100,100,kg,0
+Cardamom Brown,"Badi Elaichi, Cardamome brun, Brown Cardamom",Cardamom Brown,Generic,,100,100,kg,0
+Cardamom Green,"Green Cardamoms, Hari Ilaayachi, Cardamome vert",Cardamom Green,Generic,,100,100,kg,0
+Carom Seeds,"Ajwain, Graines de carom",Carom Seeds,Generic,,100,100,kg,0
+Carrot,"Carrots, Gaajar, Carotte, carrots, Gajar",Carrot,Generic,,100,100,kg,0
+Carrot Juice,Jus de carotte,Carrot Juice,Generic,,100,100,liter,0
+Carrots Baby,"Baby Gaajar, Carottes Bébé, Baby Carrots",Carrots Baby,Generic,,100,100,kg,0
+Cashew,"Cashews, Kaju, Anacardier",Cashew,Generic,,100,100,kg,0
+Cauliflower,"Cauliflowers, Phool Gobi, Chou Fleur",Cauliflower,Generic,,100,100,kg,0
+Celery,"Celeries, Ajavaayan, Céleri, Celary, Celery Leaves",Celery,Generic,,100,100,kg,0
+Chaat Masala,Packet Chaat Masala,Chaat Masala,Generic,,100,100,kg,0
+Chana,"Chanas, Brown Chana",Chana,Generic,,100,100,kg,0
+Chana Dal,"Chana Pulses, Gram Dal",Chana Dal,Generic,,100,100,kg,0
+Charoli,Chironji,Charoli,Generic,,100,100,kg,0
+Cheese,"Cheeses, Paneer, Fromage, cheese, paneer",Cheese,Generic,,100,100,kg,0
+Cheese Cheddar,"Cheddar Cheese, Cheddar au fromage",Cheese Cheddar,Generic,,100,100,kg,0
+Cheese Cottage,Cottage au fromage,Cheese Cottage,Generic,,100,100,kg,0
+Cheese Cream,"Cream Cheeses, Crème au fromage",Cheese Cream,Generic,,100,100,kg,0
+Cheese Mozzarella,"Mozzarella Cheeses, Fromage mozzarella",Cheese Mozzarella,Generic,,100,100,kg,0
+Cheese Parmesan,Parmesan au fromage,Cheese Parmesan,Generic,,100,100,kg,0
+Cheese Provolone,"Cheese Procolone, Fromage provolone",Cheese Provolone,Generic,,100,100,kg,0
+Cheese Shredded Cheddar,Cheddar râpé au fromage,Cheese Shredded Cheddar,Generic,,100,100,kg,0
+Cheese Soft,"Paneer, Fromage doux, cheese, paneer",Cheese Soft,Generic,,100,100,kg,0
+Cheese Spread,Tartinade de fromage,Cheese Spread,Generic,,100,100,kg,0
+Cheese Swiss,Fromage suisse,Cheese Swiss,Generic,,100,100,kg,0
+Cherry Juice,Jus De Cerise,Cherry Juice,Generic,,100,100,liter,0
+Cherry Tomato,"Cherry Tomatoes, Tomate cerise",Cherry Tomato,Generic,,100,100,kg,0
+Chicken,"Chickens, Murg, Murgi, Poulet, chicken, Poulet Entier",Chicken,Generic,,100,100,kg,0
+Chicken Bones,"Chicken Hadda, Chicken",Chicken Bones,Generic,,100,100,kg,0
+Chicken Breast,"Chicken Breasts, Murga, Poitrine Poulet",Chicken Breast,Generic,,100,100,kg,0
+Chicken Broth,"Chicken Broths, Murg Shorba, Bouillon de poulet, chicken broth",Chicken Broth,Generic,,100,100,liter,0
+Chicken Drumsticks,Batteries  Poulet,Chicken Drumsticks,Generic,,100,100,kg,0
+Chicken Full,"Whole Chickens, Poulet Plein",Chicken Full,Generic,,100,100,kg,0
+Chicken Leg,Cuisse de poulet,Chicken Leg,Generic,,100,100,kg,0
+Chicken Liver,Foie Poulet,Chicken Liver,Generic,,100,100,kg,0
+Chicken Mince,"Chicken Minces, Murg Kheema, Chicken Ground, Hachure De Poulet",Chicken Mince,Generic,,100,100,kg,0
+Chicken Pieces Boneless,"Morceaux  Poulet Désossés, Boneless Chicken",Chicken Pieces Boneless,Generic,,100,100,kg,0
+Chicken Pieces With Bone,"Morceaux  Poulet Avec Des Os, Poulet Avec Des Os, Chicken Pieces, Chicken Chanaboti, Chicken Curry Cut",Chicken Pieces With Bone,Generic,,100,100,kg,0
+Chicken Seasoning,Assaisonnement Poulet,Chicken Seasoning,Generic,,100,100,kg,0
+Chicken Skinless,"Skinless Chickens, Murg, Poulet Sans Peau",Chicken Skinless,Generic,,100,100,kg,0
+Chicken Stock,"Chicken Stocks, Stock de poulet, Chicken stock",Chicken Stock,Generic,,100,100,kg,0
+Chicken Tenderloins,Filet Poulet,Chicken Tenderloins,Generic,,100,100,kg,0
+Chicken Thighs,Cuisses de poulet,Chicken Thighs,Generic,,100,100,kg,0
+Chicken Whole,Poulet Entier,Chicken Whole,Generic,,100,100,kg,0
+Chicken Wing,"Chicken Wings, Aile de poulet, chicken wings",Chicken Wing,Generic,,100,100,kg,0
+Chickpea,"Chickpeas, Chana, Kabuli Chana, Pois chiche",Chickpea,Generic,,100,100,kg,0
+Chickpea Flour,"Chickpea Flours, Chana Aata, Farine De Pois Chiche, Besan, Garbanzo Flour, Chickpea Flour, Assuré, Kabuli Chana, Gram Flour",Chickpea Flour,Generic,,100,100,kg,0
+Chickpeas Black,"Kala Chana, Pois chiches noirs",Chickpeas Black,Generic,,100,100,kg,0
+Chili,"Chilis, Mirch, Mirchi, Le Chili, Bor Mirchi, Marcha",Chili,Generic,,100,100,kg,0
+Chili garlic sauce,Sauce à L'ail De Chili,Chili garlic sauce,Generic,,100,100,liter,0
+Chili Paste,Pâte au Chili,Chili Paste,Generic,,100,100,kg,0
+Chili Powder,"Chili Powders, Poudre De Chili, Chiliflakes, Chilliflakes, Chilli Flakes",Chili Powder,Generic,,100,100,kg,0
+Chili Sauce,"Chili Sauces, Sauce Chili, Chili Sauce, Chillisauce Red",Chili Sauce,Generic,,100,100,liter,0
+Chives,Ciboulette,Chives,Generic,,100,100,kg,0
+Chives Leaves,Feuilles de ciboulette,Chives Leaves,Generic,,100,100,kg,0
+Chocolate,"Chocolates, Chocolat",Chocolate,Generic,,100,100,kg,0
+Chocolate Chip,"Chocolate Chips, Pépite de chocolat",Chocolate Chip,Generic,,100,100,kg,0
+Chocolate Syrup,"Chocolate Syrups, Sirop au chocolat",Chocolate Syrup,Generic,,100,100,liter,0
+Cilantro,"Cilantros, Coriandre, Cilantro, Cilantro Leaves, Dhania Patta",Cilantro,Generic,,100,100,kg,0
+Cilantro Leaves,"Dhania Patta, Feuilles De Coriander, Dhaniya Patta, Cilantro Leaves, Dhania Patta",Cilantro Leaves,Generic,,100,100,kg,0
+Cinnamon,"Cinnamons, Daal Chini, Dalchini, Cinnamon Stick, Cannelle, Cannel Tige, Taj",Cinnamon,Generic,,100,100,kg,0
+Clove,"Cloves, Laung, Clou De Girofle, Girofle",Clove,Generic,,100,100,kg,0
+Cloves Garlic,"Cloves Garlics, Gousses d'ail",Cloves Garlic,Generic,,100,100,kg,0
+Cluster Beans,"Guar Ki Phali, Guar Bean, Grappes De Grappes, Guvar, Guwar",Cluster Beans,Generic,,100,100,kg,0
+Cocoa Powder,"Cocoa Powders, Poudre de cacao",Cocoa Powder,Generic,,100,100,kg,0
+Coconut,"Nariyal, Coconuts, Noix de coco",Coconut,Generic,,100,100,kg,0
+Coconut Cream,"Creme de noix de coco, Coconut cream, Creme De Coco",Coconut Cream,Generic,,100,100,liter,0
+Coconut Desicated,"Sookha Khopra, La Noix De Coco Désireuse, Desicated Coconut, Coconut Powder",Coconut Desicated,Generic,,100,100,kg,0
+Coconut Flake,"Coconut Flakes, Flocons De Noix De Coco, Coco Rape",Coconut Flake,Generic,,100,100,kg,0
+Coconut Fresh,"Fresh Coconut, Co à la noix de coco",Coconut Fresh,Generic,,100,100,kg,0
+Coconut Milk,"Coconut Milks, Naariyal Ka Doodh, Lait De Coco",Coconut Milk,Generic,,100,100,liter,0
+Coconut Powder,"Nariyel Khaman, Nariyel Powder, Poudre De Coco, Coconut",Coconut Powder,Generic,,100,100,kg,0
+Coconut Water,"Naariyal Tel, L'eau De Noix De Coco, Nariyal Pani",Coconut Water,Generic,,100,100,liter,0
+Coffee Powder,Poudre de café,Coffee Powder,Generic,,100,100,kg,0
+Condensed Milk,"Condensed Milks, Lait condensé",Condensed Milk,Generic,,100,100,liter,0
+Coriander,"Corianders, Dhaniya, Coriandre, Dhania Seeds, Dhania, Dhanya",Coriander,Generic,,100,100,kg,0
+Coriander Leaf,"Coriander Leaves, Dhaniya Ke Patte, Feuille De Coriandre, Kohtmir, Kothmir, Fresh Coriander Leaves, Corainder Leaves",Coriander Leaf,Generic,,100,100,kg,0
+Coriander Powder,"Dhanya Powder, Dhania Powder",Coriander Powder,Generic,,100,100,kg,0
+Coriander Seed,"Coriander Seeds, Dhaniye Ke Beej, Graine De Coriandre, Corinder Seeds, Aakha Dhana",Coriander Seed,Generic,,100,100,kg,0
+Corn,"Corns, Makai, Maïs, Corn kernels, Bhutta",Corn,Generic,,100,100,kg,0
+Corn Flake,"Corn Flakes, Flocons de maïs",Corn Flake,Generic,,100,100,kg,0
+Corn Flour,"Corn Flours, Makke Ka Aata, Corn Meal, Farine De Maïs, Corn Flour, Maizena, Cornflour",Corn Flour,Generic,,100,100,kg,0
+Corn Kernels,"Makai, Bhutta, Corn, Grains de maïs, Corn kernels",Corn Kernels,Generic,,100,100,kg,0
+Corn Starch,"Cornstarch, Fécule de maïs",Corn Starch,Generic,,100,100,kg,0
+Crackers,Craquelins,Crackers,Generic,,100,100,kg,0
+Cranberries,Canneberges,Cranberries,Generic,,100,100,kg,0
+Cranberry Juice,Jus De Cranberry,Cranberry Juice,Generic,,100,100,liter,0
+Cream,"Creams, Crème, Fresh Cream",Cream,Generic,,100,100,liter,0
+Cucumber,"Cucumbers, Kheera, Kakdi, Concombre, cucumbers",Cucumber,Generic,,100,100,kg,0
+Cucumber Seeds,"Magaj, Makaz",Cucumber Seeds,Generic,,100,100,kg,0
+Cumin,"Cumins, Jeera, Cumin Powder, Jeru, Jeeru",Cumin,Generic,,100,100,kg,0
+Cumin Seed,"Cumin Seeds, Jeera Ke Beej, Graines De Cumin, Cummin Seeds, Jeera, Jeru, Jeeru",Cumin Seed,Generic,,100,100,kg,0
+Curd,"Curds, Fromage Blanc",Curd,Generic,,100,100,liter,0
+Curd Lowfat,Lowfat Caillé,Curd Lowfat,Generic,,100,100,liter,0
+Curry Leaf,"Curry Leaves, Kari Patta, Mithu Limdo, Feuille De Curry, Curry Patta, Kadi Patta",Curry Leaf,Generic,,100,100,kg,0
+Curry Powder,"Curry Powders, Poudre de curry",Curry Powder,Generic,,100,100,kg,0
+Custard Apples,"Sita Phal, Pommes de crème",Custard Apples,Generic,,100,100,kg,0
+Custard Powder,"Crème Pâtissière, Custerd Powder",Custard Powder,Generic,,100,200,kg,0
+Dark Chocolate,"Dark Chocolates, Chocolat noir",Dark Chocolate,Generic,,100,100,kg,0
+Dates,"Date, Dinaank, Khajoor, Palmier Dattier",Dates,Generic,,100,100,kg,0
+Digestive biscuit,Biscuit Digestif,Digestive biscuit,Generic,,100,100,kg,0
+Dill,"Suwa, Suvaa, Aneth, Savaa",Dill,Generic,,100,100,kg,0
+Dill Pickle,Pickle à l'aneth,Dill Pickle,Generic,,100,100,kg,0
+Double Beans,"Guvar Fali, Haricots doubles",Double Beans,Generic,,100,100,kg,0
+Dried Mango,"Ambosi, Dry Mango",Dried Mango,Generic,,100,100,kg,0
+Dried Marjoram,"Marjoram, Marjolaine séchée",Dried Marjoram,Generic,,100,100,kg,0
+Dried Oregano,"Ajma, Oregano, Origan séché, dried oregano",Dried Oregano,Generic,,100,100,kg,0
+Dried Parsley,"Parsley, Persil séché",Dried Parsley,Generic,,100,100,kg,0
+Dried Plum,"Plum, Prune séchée",Dried Plum,Generic,,100,100,kg,0
+Dried Thyme,"Thyme, Thym séché, Banajwain",Dried Thyme,Generic,,100,100,kg,0
+Drumstick,"Sevta Sing, Sevta Ni Sing",Drumstick,Generic,,100,100,kg,0
+Dry Chili,Piment Sec,Dry Chili,Generic,,100,100,kg,0
+Dry Fenugreek Leaves,"Kasuri Methi, Feuilles De Fenugrec Sec, Kasturi Meti Bte, Kasoori",Dry Fenugreek Leaves,Generic,,100,100,kg,0
+Dry Fruits,Fruits secs,Dry Fruits,Generic,,100,100,kg,0
+Dry Mango Powder,Poudre De Mangue Sèche,Dry Mango Powder,Generic,,100,100,kg,0
+Egg,"Eggs, Anda, Œuf, Eggs, Beda",Egg,Generic,,100,100,count,0
+Egg Noodle,"Egg Noodles, Nouilles aux œufs",Egg Noodle,Generic,,100,100,kg,0
+Egg White,"Egg Whites, Blanc d'oeuf",Egg White,Generic,,100,100,kg,0
+Egg Yolks,Jaunes d'œuf,Egg Yolks,Generic,,100,100,kg,0
+Eggplant,"Baingan, Ringana, Aubergine, Brinjal",Eggplant,Generic,,100,100,kg,0
+Elbow,"Elbows, Coude",Elbow,Generic,,100,100,kg,0
+Equal,"Sugar Substitute, Zero Calorie Sweetener",Equal,Generic,,100,100,kg,0
+Erythritol,"Sugar Substitute, Zero Calorie Sweetener",Erythritol,Generic,,100,100,kg,0
+Evaporated milk,"Evaporated Milk, Lait Concentre",Evaporated milk,Generic,,100,100,liter,0
+Fennel Powder,Fennel,Fennel Powder,Generic,,100,100,kg,0
+Fennel Seed,"Fennel Seeds, Graine De Fenouil, Sonf, Saunf, Varialy",Fennel Seed,Generic,,100,100,kg,0
+Fenugreek Leaves,"Methi Patha, Feuilles De Fenugrec, Methi Bhaji",Fenugreek Leaves,Generic,,100,100,kg,0
+Field Bean,"Vaal, Haricot",Field Bean,Generic,,100,100,kg,0
+Figs,"Anjeer, Figues",Figs,Generic,,100,100,kg,0
+Finger Millet,"Ragi, Millet du doigt",Finger Millet,Generic,,100,100,kg,0
+Fish,"Machi, Poisson",Fish,Generic,,100,100,kg,0
+Flour All Purpose,"Aata, Plain Flour, Wheat Flour, Farine Tout But, Aato",Flour All Purpose,Generic,,100,100,kg,0
+Flour Amarnath,"Rajgira Flour, Farine Amarnath, Amaranth flour",Flour Amarnath,Generic,,100,100,kg,0
+Flour Bleached,Farine blanchie,Flour Bleached,Generic,,100,100,kg,0
+Flour Bread,Pain de farine,Flour Bread,Generic,,100,100,kg,0
+Flour Buckwheat,"Kottu Ka Atta, Sarrasin de la farine, Buckwheat Flour",Flour Buckwheat,Generic,,100,100,kg,0
+Flour Cake,Gâteau de farine,Flour Cake,Generic,,100,100,kg,0
+Flour Double Zero,"Italian Double Zero 00, Farine double zéro",Flour Double Zero,Generic,,100,100,kg,0
+Flour Instant,"Wondra, Farine instantanée",Flour Instant,Generic,,100,100,kg,0
+Flour Millet,Millet à farine,Flour Millet,Generic,,100,100,kg,0
+Flour Pastry,Pâtisserie,Flour Pastry,Generic,,100,100,kg,0
+Flour Rye,Seigle de farine,Flour Rye,Generic,,100,100,kg,0
+Flour Self Rising,Farine auto-monte,Flour Self Rising,Generic,,100,100,kg,0
+Flour Semolina,"Soojee Ka Aata, Semoline de farine",Flour Semolina,Generic,,100,100,kg,0
+Flour Spelt,Farine orthographiée,Flour Spelt,Generic,,100,100,kg,0
+Flour Unbleached,Farine non blanchie,Flour Unbleached,Generic,,100,100,kg,0
+Flour White Millet,"Bajra, Millet blanc farine",Flour White Millet,Generic,,100,100,kg,0
+Flour White Whole Wheat,Farine de blé entier blanc,Flour White Whole Wheat,Generic,,100,100,kg,0
+Flour Whole Wheat,Farine de blé entier,Flour Whole Wheat,Generic,,100,100,kg,0
+Food Color,"Food Colors, Colorant alimentaire",Food Color,Generic,,100,100,kg,0
+French Bread,Pain français,French Bread,Generic,,100,100,kg,0
+French Fries,Frites,French Fries,Generic,,100,100,kg,0
+Fried Onions,"Barista, Fried Onion",Fried Onions,Generic,,100,100,kg,0
+Fruit Cocktail,"Fruit Cocktails, Cocktail De Fruits",Fruit Cocktail,Generic,,100,100,kg,0
+Garam Masala,"Garam Masalas, Masala, Garam Masala Whole, Whole Garam Masala, Garam Masala Powder",Garam Masala,Generic,,100,100,kg,0
+Garcina Indica,"Kokum, Cocum, Kokam",Garcina Indica,Generic,,100,100,kg,0
+Garlic,"Garlics, Lahasun, Garlic Clove, Ail, Lasan, Lahsun, Chopped Garlic",Garlic,Generic,,100,100,kg,0
+Garlic Paste,"Garlic Pastes, Pâte D'ail",Garlic Paste,Generic,,100,100,kg,0
+Garlic Powder,"Garlic Powders, Garlic Salt, Poudre d'ail",Garlic Powder,Generic,,100,100,kg,0
+Gelatin,"Gelatins, Gélatine",Gelatin,Generic,,100,100,kg,0
+Gherkins,"Tindora, Ivy Gourd",Gherkins,Generic,,100,100,kg,0
+Ginger,"Gingers, Adarak, Adrak, Gingembre, Ginger, Adu, Aadu",Ginger,Generic,,100,100,kg,0
+Ginger garlic paste,Pâte D'ail à Gingembre,Ginger garlic paste,Generic,,100,100,kg,0
+Ginger Paste,"Ginger Pastes, Adarak Paste, Pâte de gingembre",Ginger Paste,Generic,,100,100,kg,0
+Ginger Powder,"Ginger Powder, Ginger",Ginger Powder,Generic,,100,100,kg,0
+Goat,"Mutton, Bakri, Goats, Chèvre, Viande Sans Os",Goat,Generic,,100,100,kg,0
+Goat Bone in Leg,"Goat Leg, Bone De Chèvre Dans La Jambe, Leg Of Goat",Goat Bone in Leg,Generic,,100,100,kg,0
+Goat Brain,Cerveau De Chèvre,Goat Brain,Generic,,100,100,kg,0
+Goat BRT boneless,Chèvre Brt Désossé,Goat BRT boneless,Generic,,100,100,kg,0
+Goat Cubes,Cubes De Chèvre,Goat Cubes,Generic,,100,100,kg,0
+Goat Ground,"Goat Kheema, Terre De Chèvre, Minced Meat, Mutton Kheema, Mutton Khimo",Goat Ground,Generic,,100,100,kg,0
+Goat Kidney,Rein De Chèvre,Goat Kidney,Generic,,100,100,kg,0
+Goat Liver,Foie De Chèvre,Goat Liver,Generic,,100,100,kg,0
+Goat Loin Chop,Choppette De Chèvre,Goat Loin Chop,Generic,,100,100,kg,0
+Goat Rack,Rack De Chèvre,Goat Rack,Generic,,100,100,kg,0
+Goat Ribs,Côtes De Chèvre,Goat Ribs,Generic,,100,100,kg,0
+Goat Shank,Tige De Chèvre,Goat Shank,Generic,,100,100,kg,0
+Goat Shoulder chop,Hop D'épaule De Chèvre,Goat Shoulder chop,Generic,,100,100,kg,0
+Goat Sirloin Chop,Choplane De Chèvre,Goat Sirloin Chop,Generic,,100,100,kg,0
+Goat Tongue,Languette De Chèvre,Goat Tongue,Generic,,100,100,kg,0
+Goat Trotter,"Paaya, Trotteur De Chèvre",Goat Trotter,Generic,,100,100,kg,0
+Golden Raisin,"Golden Raisins, Kishmish, Raisin, Raisin doré",Golden Raisin,Generic,,100,100,kg,0
+Gooseberry,"Amla, Groseille à maquereau",Gooseberry,Generic,,100,100,kg,0
+Graham Crackers,Biscuit Graham,Graham Crackers,Generic,,100,100,kg,0
+Gram Dal,"Chana Dal, Gram dal",Gram Dal,Generic,,100,100,kg,0
+Grape Juice,"Jus De Raisin, Angur Nu JUice",Grape Juice,Generic,,100,100,liter,0
+Grapefruit Juice,Jus De Pamplemousse,Grapefruit Juice,Generic,,100,100,liter,0
+Grapes,"Angoor, Grape",Grapes,Generic,,100,100,kg,0
+Greek Yogurt Lowfat,"Greek Yogurt, Yaourt Grec Lowfat",Greek Yogurt Lowfat,Generic,,100,100,kg,0
+Green Beans,"Faras Bean, Haricots Verts, Green Bean",Green Beans,Generic,,100,100,kg,0
+Green Bell Pepper,"Shimla Mirch, Poivron vert, Capsicum",Green Bell Pepper,Generic,,100,100,kg,0
+Green cardamom,Cardamome Verte,Green cardamom,Generic,,100,100,kg,0
+Green Chili,"Green Chilis, Hari Mirch, Chili Vert, Green Chillies, Lila Marcha, Bhajiya Marcha",Green Chili,Generic,,100,100,kg,0
+Green Chilli Sauce,Chilli Sauce,Green Chilli Sauce,Generic,,100,100,liter,0
+Green Chutney,"Green Chutneys, Chutney vert",Green Chutney,Generic,,100,100,kg,0
+Green Garlic,"Lilu Lasan, Lilulasan",Green Garlic,Generic,,100,100,kg,0
+Green Gram split skinned,"Dhuli Moong Dal, Green Gram Split Skinned",Green Gram split skinned,Generic,,100,100,kg,0
+Green Gram Split with skin,"Moong Dal Chilka, Green Gram Split avec la peau",Green Gram Split with skin,Generic,,100,100,kg,0
+Green Gram Whole,"Sabut Moong, Gram vert entier",Green Gram Whole,Generic,,100,100,kg,0
+Green Leaf Lettuce,Laitue Frisée Verte,Green Leaf Lettuce,Generic,,100,100,kg,0
+Green Olive,"Olive Verte, Green Olives",Green Olive,Generic,,100,100,kg,0
+Green Pea,"Green Peas, Hari Matar, Matar, Petit pois, Green pea",Green Pea,Generic,,100,100,kg,0
+Ground Black Pepper,"Kali Mirch, Poivre Noir Moulu, Poivre Poudre, Black Pepper Powder, Mari",Ground Black Pepper,Generic,,100,100,kg,0
+Guava,Goyave,Guava,Generic,,100,100,kg,0
+Heavy Cream,"Heavy Creams, Crème épaisse",Heavy Cream,Generic,,100,100,liter,0
+Herb,"Herbs, Herbe",Herb,Generic,,100,100,kg,0
+Hoisin Sauce,"Hoisin Sauces, Sauce hoisin, Hoisin sauce",Hoisin Sauce,Generic,,100,100,liter,0
+Honey,"Honeys, Shahad, Mon Chéri",Honey,Generic,,100,100,liter,0
+Honeydew,Miellat,Honeydew,Generic,,100,100,kg,0
+Horseradish,Horseradish,Horseradish,Generic,,100,100,kg,0
+Hot Sauce,"Hot Sauces, Sauce piquante, hot sauce",Hot Sauce,Generic,,100,100,liter,0
+Iceberg Lettuce,Crisphead Lettuce,Iceberg Lettuce,Generic,,100,100,kg,0
+Instant Coffee Powder,"Instant Coffee Powders, Poudre de café instantanée",Instant Coffee Powder,Generic,,100,100,kg,0
+Instant Noodle,"Instant Noodles, Nouilles instantanées",Instant Noodle,Generic,,100,100,kg,0
+Jackfruit,"Kathal, Fanas, Jacquier",Jackfruit,Generic,,100,100,kg,0
+Jaggery,"Jaggeries, Gud, Jagré, Gur",Jaggery,Generic,,100,100,kg,0
+Jalapeno Pepper,"Jalapeno Peppers, Bell Peppers, Piment jalapeno",Jalapeno Pepper,Generic,,100,100,kg,0
+Kale,"Kales, Chou Frisé, Leaf Cabbage",Kale,Generic,,100,100,kg,0
+Kashmiri Dry Chili Pepper,Piment Sec Kashmiri,Kashmiri Dry Chili Pepper,Generic,,100,100,kg,0
+Ketchup,"Ketchups, Ketchup, Ketchup Sauce",Ketchup,Generic,,100,100,liter,0
+Khoya,Khoyas,Khoya,Generic,,100,100,kg,0
+Kiwi,"Kiwis, kiwi",Kiwi,Generic,,100,100,kg,0
+Lamb,"Lambs, Dumbo, Agneau",Lamb,Generic,,100,100,kg,0
+Lamb Bone in Leg,"Leg Of Lamb, Lamb Leg, Os D'agneau Dans La Jambe",Lamb Bone in Leg,Generic,,100,100,kg,0
+Lamb BRT boneless,Lamb Brt Désossé,Lamb BRT boneless,Generic,,100,100,kg,0
+Lamb Ground,"Dumbo Kheema, Terre D'agneau",Lamb Ground,Generic,,100,100,kg,0
+Lamb Kidney,Rein D'agneau,Lamb Kidney,Generic,,100,100,kg,0
+Lamb Liver,Foie D'agneau,Lamb Liver,Generic,,100,100,kg,0
+Lamb Loin Chop,Chop D'agneau,Lamb Loin Chop,Generic,,100,100,kg,0
+Lamb Rack,Support D'agneau,Lamb Rack,Generic,,100,100,kg,0
+Lamb Ribs,Côtes D'agneau,Lamb Ribs,Generic,,100,100,kg,0
+Lamb Shank,Jarret D'agneau,Lamb Shank,Generic,,100,100,kg,0
+Lamb Shoulder chop,Hache D'épaule D'agneau,Lamb Shoulder chop,Generic,,100,100,kg,0
+Lamb Sirloin Chop,Chop De Surlonge D'agneau,Lamb Sirloin Chop,Generic,,100,100,kg,0
+Lamb Trotter,"Paaya, Trotteur D'agneau",Lamb Trotter,Generic,,100,100,kg,0
+Lasagna,"Lasagnas, Lasagne",Lasagna,Generic,,100,100,kg,0
+Lemon,"Lemons, Nimbu, Citron",Lemon,Generic,,100,100,kg,0
+Lemon Juice,"Lemon Juices, Nimbu Paani, Jus de citron",Lemon Juice,Generic,,100,100,liter,0
+Lemon Zest,"Lemon Zests, Nimbu, Zeste de citron, Lemon",Lemon Zest,Generic,,100,100,kg,0
+Lentil,"Lentils, Masoor Daal, Lentille, Masoor Dal",Lentil,Generic,,100,100,kg,0
+Lentils Whole Brown,"Sabut Masoor, Lentilles Entier Brun, Whole Masoor Dal",Lentils Whole Brown,Generic,,100,100,kg,0
+Lime,"Lilu Limbo, Chaux, limbro",Lime,Generic,,100,100,kg,0
+Lime Juice,"Lime Juices, Lilu Limbu Ras, Jus de citron vert",Lime Juice,Generic,,100,100,liter,0
+Maggi,"Chicken Maggi, Bouillon Poulet, Chicken Bouillon, Jumbo Poulet, Chicken Cube",Maggi,Generic,,100,100,kg,0
+Mango,"Mangoes, Aam, Kairi, Mangue",Mango,Generic,,100,100,kg,0
+Mango Green,"Green Mangoes, Hari Aam, Green de mangue",Mango Green,Generic,,100,100,kg,0
+Mango Juice,"Mango Juices, Aam Ras, Jus de mangue",Mango Juice,Generic,,100,100,liter,0
+Mango Powder,"Amchur, Poudre de mangue",Mango Powder,Generic,,100,100,kg,0
+Mangosteen,"Kakrol, Mangoustan",Mangosteen,Generic,,100,100,kg,0
+Margarine,Margarine,Margarine,Generic,,100,100,kg,0
+Mayonnaise,Mayonnaises,Mayonnaise,Generic,,100,100,kg,0
+Melon Seeds,"Magaj, Makaz, Magajtari",Melon Seeds,Generic,,100,100,kg,0
+Milk,"Milks, Doodh, Du lait",Milk,Generic,,100,100,liter,0
+Milk Chocolate,"Milk Chocolates, Chocolat au lait",Milk Chocolate,Generic,,100,100,kg,0
+Milk Lowfat,Lait bas,Milk Lowfat,Generic,,100,100,liter,0
+Milk Powder,"Lait En Poudre, Dood Powder",Milk Powder,Generic,,100,100,kg,0
+Milk Sweetened Caramelized,"Sweetened Caramelized Milk, Dulce De Leche, Lait sucré caramélisé",Milk Sweetened Caramelized,Generic,,100,100,liter,0
+Milk Whole,"Whole Milk, Doodh, Lait",Milk Whole,Generic,,100,100,liter,0
+Millet flour,La Farine De Mil,Millet flour,Generic,,100,100,kg,0
+Minced Garlic,"Minced Garlics, Lahasun, Ail Haché, Green Garlic",Minced Garlic,Generic,,100,100,kg,0
+Mint Leaf,"Mint Leaves, Pudeena Patte, Feuille De Menthe, Mint Leave, Pudina, Phudina, Fudina, Fudino",Mint Leaf,Generic,,100,100,kg,0
+Mix Vegetable,"Mix Vegetables, Generic Vegetable, Légumes",Mix Vegetable,Generic,,100,100,kg,0
+Monk Fruit,"Sugar Substitute, Zero Calorie Sweetener",Monk Fruit,Generic,,100,100,kg,0
+Moth Beans,"Math, Haricots, Beans",Moth Beans,Generic,,100,100,kg,0
+Mushroom,"Gucchi, Khumb, Mushrooms, Champignon",Mushroom,Generic,,100,100,kg,0
+Muskmelon,Cantaloup,Muskmelon,Generic,,100,100,kg,0
+Muskmelon Juice,Muskmelon,Muskmelon Juice,Generic,,100,100,liter,0
+Mustard,"Mustards, Sarson, Moutarde",Mustard,Generic,,100,100,kg,0
+Mustard Greens,Feuilles de moutarde,Mustard Greens,Generic,,100,100,kg,0
+Mustard Sauce,Sauce Moutarde,Mustard Sauce,Generic,,100,100,liter,0
+Mustard Seed,"Mustard Seeds, Sarson, Graine De Moutarde",Mustard Seed,Generic,,100,100,kg,0
+Naan,"Ready Made Naan, Ready Made Naan Bread, Ready Made Naan Round",Naan,Generic,,100,100,kg,0
+Nestle Cream,"Nestle Cream, Cream Nestle",Nestle Cream,Generic,,100,100,liter,0
+Noodle,"Noodles, Nouille",Noodle,Generic,,100,100,kg,0
+Oat,"Oats, Jaee, Avoine",Oat,Generic,,100,100,kg,0
+Oil Canola,"Canola D'huile, Huile",Oil Canola,Generic,,100,100,liter,0
+Oil Coconut,Noix De Coco à L'huile,Oil Coconut,Generic,,100,100,liter,0
+Oil Corn,Maïs à Huile,Oil Corn,Generic,,100,100,liter,0
+Oil Flaxseed,Graines De Lin,Oil Flaxseed,Generic,,100,100,liter,0
+Oil Hazelnut,Noisette à L'huile,Oil Hazelnut,Generic,,100,100,liter,0
+Oil Peanut,Arachide D'huile,Oil Peanut,Generic,,100,100,liter,0
+Oil Sunflower,"Tournesol, Oil, Tel",Oil Sunflower,Generic,,100,100,liter,0
+Oil Virgin Olive,Olive Vierge D'huile,Oil Virgin Olive,Generic,,100,100,liter,0
+Okra,"Bhindi, Okras, Gombo, Lady Finger, Lady Fingers, Bhinda",Okra,Generic,,100,100,kg,0
+Olive,"Olives, Jaitoon, olive",Olive,Generic,,100,100,kg,0
+Olive Oil,"Olive Oils, Jaitoon Tel, Zaitun Oil, Huile d'olive",Olive Oil,Generic,,100,100,liter,0
+Onion,"Onions, Piyaz",Onion,Generic,,100,100,kg,0
+Onion Green,"Spring Onion, Hari Pyaaj, Green Onion, Vert Oignon, Lili Piyaz, Lilu Piyaz",Onion Green,Generic,,100,100,kg,0
+Onion Powder,Poudre d'oignon,Onion Powder,Generic,,100,100,kg,0
+Onion Ring,"Onion Rings, Rondelle d'oignon",Onion Ring,Generic,,100,100,kg,0
+Onion White,"Oignon Blanc, White Piyaz",Onion White,Generic,,100,100,kg,0
+Onion Yellow,"Jaune Oignon, Yellow Piyaz, Piyaz",Onion Yellow,Generic,,100,100,kg,0
+Orange,"Naarangi, Santra, Oranges, Monkey Orange, Mokotra",Orange,Generic,,100,100,kg,0
+Orange Juice,"Orange Juices, Santara Ras, Du jus d'orange",Orange Juice,Generic,,100,100,liter,0
+Orange Zest,"Orange Zests, Santara, Zeste d'orange",Orange Zest,Generic,,100,100,kg,0
+Oregano,"Oreganos, Origan",Oregano,Generic,,100,100,kg,0
+Oreo,"Oreos, Cookies",Oreo,Generic,,100,100,kg,0
+Palmier,Palmiers,Palmier,Generic,,100,100,kg,0
+Papaya,"Papayas, Papeeta, Papaye",Papaya,Generic,,100,100,kg,0
+Paprika,"Paprikas, Lal Shimala Mirch, Degi Mirch",Paprika,Generic,,100,100,kg,0
+Paratha,"Parathas, Indian Flat Bread",Paratha,Generic,,100,100,kg,0
+Parsley,"Parsleys, Ajamod, Persil, Parsley Leaves",Parsley,Generic,,100,100,kg,0
+Pasta,"Pastas, Pâtes, Macaroni, Macroni",Pasta,Generic,,100,100,kg,0
+Pea,"Peas, Matar, Pois, Green pea",Pea,Generic,,100,100,kg,0
+Pea Pigeon,"Tuvar Dal, Pigeon De Pois, Pigeon Pea, Toor Dal, Tuver Dal",Pea Pigeon,Generic,,100,100,kg,0
+Peach,"Peaches, Aadoo, La pêche",Peach,Generic,,100,100,kg,0
+Peanut,"Peanuts, Moong Phali, Cacahuète, Cacahuete, Sing Dana",Peanut,Generic,,100,100,kg,0
+Peanut Butter,Beurre d'arachide,Peanut Butter,Generic,,100,100,kg,0
+Pear,"Naspati, Poire",Pear,Generic,,100,100,kg,0
+Pear Prickley,Poire,Pear Prickley,Generic,,100,100,kg,0
+Peas Pigeon,"Sabut Toor, Pigeon",Peas Pigeon,Generic,,100,100,kg,0
+Penne Pasta,"Penne Pastas, Penne",Penne Pasta,Generic,,100,100,kg,0
+Pepper,"Peppers, Mirch, Poivre",Pepper,Generic,,100,100,kg,0
+Pepper Sauce,"Sauce au poivre, pepper sauce",Pepper Sauce,Generic,,100,100,liter,0
+Pepper White,"White Peppers, Poivre blanc",Pepper White,Generic,,100,100,kg,0
+Peppercorn,"Peppercorns, Grain de poivre",Peppercorn,Generic,,100,100,kg,0
+Peppers Pimento,Poivrons piment,Peppers Pimento,Generic,,100,100,kg,0
+Petsay,"Cho Chinois, Baji",Petsay,Generic,,100,100,kg,0
+Pickle Relish,Relish cornichon,Pickle Relish,Generic,,100,100,kg,0
+Pineapple,Ananas,Pineapple,Generic,,100,100,kg,0
+Pineapple Juice,Jus D'ananas,Pineapple Juice,Generic,,100,100,liter,0
+Pink Lentils,"Masoor Dal, Lentilles Roses, Red Lentil, Red Masoor Dal",Pink Lentils,Generic,,100,100,kg,0
+Pistachio,"Pistachios, Pista, Pistache",Pistachio,Generic,,100,100,kg,0
+Plain Roti,"Roti, Chapati",Plain Roti,Generic,,100,100,kg,0
+Plain Yogurt,"Plain Yogurts, Yahourt Nature",Plain Yogurt,Generic,,100,100,kg,0
+Plum,"Plums, Aaloobukhaara, Prune",Plum,Generic,,100,100,kg,0
+Pomegranate,"Pomegranates, Anaar, Grenade, Daram",Pomegranate,Generic,,100,100,kg,0
+Pomegranate Juice,Anar Juice,Pomegranate Juice,Generic,,100,100,liter,0
+Poppy Seeds,"Khas Khas, Graines de coquelicot",Poppy Seeds,Generic,,100,100,kg,0
+Potato,"Potatoes, Aloo, Pomme De Terre, Bateta, Bataka",Potato,Generic,,100,100,kg,0
+Potato Stick,"Potato Sticks, Bâton de pomme de terre",Potato Stick,Generic,,100,100,kg,0
+Pound Cake,Broyer Gâteau,Pound Cake,Generic,,100,100,kg,0
+Prune,"Prunes, Bor",Prune,Generic,,100,100,kg,0
+Pumpkin,"Kaddu, Citrouille",Pumpkin,Generic,,100,100,kg,0
+Pumpkin Seeds,"Char Magaz, Pumpkin Seed, Graines De Citrouille, Pumpkin Seeds, Magaz, Makaj",Pumpkin Seeds,Generic,,100,100,kg,0
+Quinoa,quinoa,Quinoa,Generic,,100,100,kg,0
+Radish,"Mooli, Radis",Radish,Generic,,100,100,kg,0
+Radish Pods,"Moongra, Mogri, Gousses de radis",Radish Pods,Generic,,100,100,kg,0
+Raisin,"Raisins, Kishmish, Black Raisins, Dried Grapes",Raisin,Generic,,100,100,kg,0
+Ranch Dressing,Habillage de ranch,Ranch Dressing,Generic,,100,100,kg,0
+Raspberry Juice,Raspberry,Raspberry Juice,Generic,,100,100,liter,0
+Raw Pistachios Shelled,"Pistachios Shelled, Pista Sans Peau, Pista Shelled",Raw Pistachios Shelled,Generic,,100,100,kg,0
+Red Bell Pepper,Poivron rouge,Red Bell Pepper,Generic,,100,100,kg,0
+Red Cabbage,Chou rouge,Red Cabbage,Generic,,100,100,kg,0
+Red Chili Peppers,"Chili Rouge, Red Chilli Whole",Red Chili Peppers,Generic,,100,100,kg,0
+Red Chili Powder,"Lal Mirch, Chili Powder, Red Chilli Powder, Lal Mirchi Powder",Red Chili Powder,Generic,,100,100,kg,0
+Red Chilli Sauce,"Chilli Sauce Red, Chili Sauce",Red Chilli Sauce,Generic,,100,100,liter,0
+Red Curry Paste,Pâte de curry rouge,Red Curry Paste,Generic,,100,100,kg,0
+Red Kidney Beans,"Rajmah, Haricots rouges",Red Kidney Beans,Generic,,100,100,kg,0
+Red Lentil,"Masoor Dal, Lentille rouge",Red Lentil,Generic,,100,100,kg,0
+Red Pepper Flakes,"Cayenne, Cayenne Peppers, Flocons de piment rouge, red pepper flakes",Red Pepper Flakes,Generic,,100,100,kg,0
+Rice,"Rices, Chawal, Riz",Rice,Generic,,100,100,kg,0
+Rice Basmati,"Basmati Rices, Basamati Chaaval, Riz Basmati",Rice Basmati,Generic,,100,100,kg,0
+Rice Brown,Riz brun,Rice Brown,Generic,,100,100,kg,0
+Rice Flour,"Farine de riz, Farine De Riz",Rice Flour,Generic,,100,100,kg,0
+Rice Instant,Rice instantané,Rice Instant,Generic,,100,100,kg,0
+Rice Long Grain,Riz long,Rice Long Grain,Generic,,100,100,kg,0
+Rice Noodles,Nouilles de riz,Rice Noodles,Generic,,100,100,kg,0
+Rice Sushi,Sushi de riz,Rice Sushi,Generic,,100,100,kg,0
+Rice Wild,Riz sauvage,Rice Wild,Generic,,100,100,kg,0
+Ridge Gourd,"Torai, Turiya, Gourde de crête",Ridge Gourd,Generic,,100,100,kg,0
+Roll,Rouleau,Roll,Generic,,100,100,kg,0
+Romaine Lettuce,Cos Lettuce,Romaine Lettuce,Generic,,100,100,kg,0
+Rose,"Roses, Gulaab",Rose,Generic,,100,100,kg,0
+Rose Essence,"Rose Essence, Essence Rose",Rose Essence,Generic,,100,100,liter,0
+Rose Water,"Rose Water, Eau De Rose",Rose Water,Generic,,100,100,liter,0
+Rosemary Leaves,Rosemary Leaves,Rosemary Leaves,Generic,,100,100,kg,0
+Saccharin,"Saccharine, Sugar Substitute, Zero Calorie Sweetener",Saccharin,Generic,,100,100,kg,0
+Saffron,"Saffrons, Kesar, Safran, Kesar Essence",Saffron,Generic,,100,100,kg,0
+Salt,"Salts, Namak, Le Sel, Salt, Sel, Table Salt",Salt,Generic,,100,100,kg,0
+Salt Khosher,Salt Khosher,Salt Khosher,Generic,,100,100,kg,0
+Salt Pink,Rose salé,Salt Pink,Generic,,100,100,kg,0
+Saltine Crackers,Craquelins salés,Saltine Crackers,Generic,,100,100,kg,0
+Sapodilla,Chikoo,Sapodilla,Generic,,100,100,kg,0
+Scented Water,Scented Water,Scented Water,Generic,,100,100,liter,0
+Schezwan Sauce,"Schezwan Sauce, Sezwan Sauce, Sauce",Schezwan Sauce,Generic,,100,100,liter,0
+Seasoning,"Seasonings, assaisonnement",Seasoning,Generic,,100,100,kg,0
+Semolina,"Semolinas, Sooji, Semoule, Suji",Semolina,Generic,,100,100,kg,0
+Sesame Oil,"Sesame Oils, Til Ka Tel, Huile de sésame",Sesame Oil,Generic,,100,100,liter,0
+Sesame Seed,"Sesame, Sesame Seeds, Til Ke Beej, Graine De Sésame",Sesame Seed,Generic,,100,100,kg,0
+Sev,Sept,Sev,Generic,,100,100,kg,0
+skinless boneless chicken thighs,"Chicken Thighs Skinless Boneless, Cuisses De Poulet Sans Peau Désossées",skinless boneless chicken thighs,Generic,,100,100,kg,0
+Soda,"Sodas, Un Soda",Soda,Generic,,100,100,liter,0
+Sorghum,"Jowar, Sorgho",Sorghum,Generic,,100,100,kg,0
+Sour Cream,"Cream Sour, Crème Aigre",Sour Cream,Generic,,100,100,liter,0
+Soy Sauce,"Soy Sauces, Soya Sauce, Sauce Soja",Soy Sauce,Generic,,100,100,liter,0
+Soya Bean,"Graine De Soja, Soybean, Soy Bean, Soya Bean",Soya Bean,Generic,,100,100,kg,0
+Spaghetti,Spaghettis,Spaghetti,Generic,,100,100,kg,0
+Spices,"Spice, Masaale, Épices, Masala",Spices,Generic,,100,100,kg,0
+Spinach,"Spinaches, Paalak Ni Baji, Épinard, Fresh Spinach, Spinachs, Baji",Spinach,Generic,,100,100,kg,0
+Spinach Baby,"Baby Spinaches, Spinach, Paalak ni Baji, Bébé épinard",Spinach Baby,Generic,,100,100,kg,0
+Spinach Malabar,"Poi Saag, Malabar des épinards, Malabar Spinach",Spinach Malabar,Generic,,100,100,kg,0
+Splenda,"Sugar Substitute, Zero Calorie Sweetener",Splenda,Generic,,100,100,kg,0
+Split Black Lentils,"Udad Dal, Lentils Noirs Divisés, Massor Daal, Black Urad Dal, Arad Dal, Black Gram Split",Split Black Lentils,Generic,,100,100,kg,0
+Split Pea,"Split Peas, Pois séparé",Split Pea,Generic,,100,100,kg,0
+Split Pigeon Peas,"Toor, Pigeon partagé",Split Pigeon Peas,Generic,,100,100,kg,0
+Sponge Cake,Gateau éponge,Sponge Cake,Generic,,100,100,kg,0
+Spring Roll,Rouleau de printemps,Spring Roll,Generic,,100,100,kg,0
+Sprouts,Choux,Sprouts,Generic,,100,100,kg,0
+Sriracha Sauce,"Sauce Sriracha, Sriracha sauce",Sriracha Sauce,Generic,,100,100,liter,0
+Star Anise,"Chakra Phool, Star Anises, Anis étoilé, Etoile D'anis, Chakri Phool",Star Anise,Generic,,100,100,kg,0
+Stevia,"Sugar Substitute, Zero Calorie Sweetener",Stevia,Generic,,100,100,kg,0
+Stick Cinnamon,"Stick Cinnamons, Bâton de cannelle",Stick Cinnamon,Generic,,100,100,kg,0
+Strawberry,"Strawberries, Fraise",Strawberry,Generic,,100,100,kg,0
+Strawberry Jello,"Strawberry Jelloes, Jello aux fraises",Strawberry Jello,Generic,,100,100,kg,0
+Sugar,"Sugars, Chini, Sucre, Khaand",Sugar,Generic,,100,100,kg,0
+Sugar Brown,"Brown Sugars, Cheenee, Chini, Brun",Sugar Brown,Generic,,100,100,kg,0
+Sugar Confectioners,"Confectioners Sugars, Chini, Confiseur de sucre",Sugar Confectioners,Generic,,100,100,kg,0
+Sugar Granulated,"Granulated Sugars, Chini, Sucre granulé",Sugar Granulated,Generic,,100,100,kg,0
+Sugar Icing,"Icing Sugars, Glaçage au sucre",Sugar Icing,Generic,,100,100,kg,0
+Sugar Powdered,"Powdered Sugars, Chini, Sucre en poudre",Sugar Powdered,Generic,,100,100,kg,0
+Sugar White,"Sugar, Blanc de sucre",Sugar White,Generic,,100,100,kg,0
+Sunflower Seeds,Graines de tournesol,Sunflower Seeds,Generic,,100,100,kg,0
+Sushi rice,Riz à Sushis,Sushi rice,Generic,,100,100,kg,0
+Sweet And Low,"Sugar Substitute, Zero Calorie Sweetener",Sweet And Low,Generic,,100,100,kg,0
+Sweet Corn,"Sweet Corns, Le Maïs Sucré, Sweet Corn Paste",Sweet Corn,Generic,,100,100,kg,0
+Sweet Lime,"Mosambi, Citron doux",Sweet Lime,Generic,,100,100,kg,0
+Sweetened Condensed Milk,"Sweetened Condensed Milks, Doodh, Lait concentré sucré",Sweetened Condensed Milk,Generic,,100,100,liter,0
+Sword Beans,"Surati Papri, Vaalor, Haricots, Beans",Sword Beans,Generic,,100,100,kg,0
+Syrup,Sirop,Syrup,Generic,,100,100,liter,0
+Tamarind,"Tamarinds, Imli, Tamarin, Aamli",Tamarind,Generic,,100,100,kg,0
+Tamarind Chutney,"Tamarind Chutneys, Chutney de tamarin",Tamarind Chutney,Generic,,100,100,kg,0
+Tamarind Pulp,"Tamarind Pulps, Imli paste, Tamarind Paste, Pulpe de tamarin",Tamarind Pulp,Generic,,100,100,kg,0
+Tandoori Naan,"Tandoori Naans, Tandoori naan",Tandoori Naan,Generic,,100,100,kg,0
+Tapioca Pearl,"Sago, Sabudana",Tapioca Pearl,Generic,,100,100,kg,0
+Taro,"Taro Roots, Arbi",Taro,Generic,,100,100,kg,0
+Tea,"Teas, Chai, Thé",Tea,Generic,,100,100,kg,0
+Tea Biscuit,"Tea Biscuits, Biscuit à thé",Tea Biscuit,Generic,,100,100,kg,0
+Tea Black,"Orange Pekoe Tea, Thé noir",Tea Black,Generic,,100,100,kg,0
+Tea Green,"Herb Tea, Green Teas, Green de thé",Tea Green,Generic,,100,100,kg,0
+Tender Gourd,"Tinda, Gourde tendre",Tender Gourd,Generic,,100,100,kg,0
+Thyme,"Banajwain, Ajavaayan, Thym",Thyme,Generic,,100,100,kg,0
+Tomato,"Tomatoes, Tamatar, Tomate, Tomate Rond, Tameta",Tomato,Generic,,100,100,kg,0
+Tomato Juice,Jus De Tomate,Tomato Juice,Generic,,100,100,liter,0
+Tomato Ketchup,"Tomato Ketchups, Ketchup De Tomate, Ketchup, Tomato Sauce",Tomato Ketchup,Generic,,100,100,liter,0
+Tomato Paste,"Tomato Pastes, Pâte de tomate",Tomato Paste,Generic,,100,100,kg,0
+Tomato Puree,"Tomato Purees, Purée de tomates",Tomato Puree,Generic,,100,100,kg,0
+Tomato Sauce,"Sauce Tomate, Tomato Sauce, Tamatar Sauce",Tomato Sauce,Generic,,100,100,liter,0
+Turmeric,"Turmerics, Haldi, Curcuma, Turmeric Powder",Turmeric,Generic,,100,100,kg,0
+Turnip,"Shalgam, Navet",Turnip,Generic,,100,100,kg,0
+Tyssam,Baji,Tyssam,Generic,,100,100,kg,0
+Tzatziki Sauce,"Tzatziki Sauces, sauce tzatziki, Tzatziki sauce",Tzatziki Sauce,Generic,,100,100,liter,0
+Vanilla,Vanille,Vanilla,Generic,,100,100,kg,0
+Vanilla bean,"Vanilla Beans, Gousse de vanille, Vanilla Bean, Gousse Vanille",Vanilla bean,Generic,,100,100,kg,0
+Vanilla Essence,"Vanilla, Essence De Vanille",Vanilla Essence,Generic,,100,100,liter,0
+Vanilla Ice Cream,"Vanilla Ice Creams, Glace à La Vanille",Vanilla Ice Cream,Generic,,100,100,liter,0
+Vegetable Oil,"Vegetable Oils, Sabji Ka Tel, Vegetable Shortening, Huile Végétale, Oil",Vegetable Oil,Generic,,100,100,liter,0
+Vermicelli,"Vermicellis, Vermicelle, Vermicili",Vermicelli,Generic,,100,100,kg,0
+Vinegar,"Sarka, Sarko, Vinaigre",Vinegar,Generic,,100,100,liter,0
+Vinegar Balsamic,"Sarko, Vinegars, Vinaigre balsamique, balsamic vinegar, vinaigre balsamique",Vinegar Balsamic,Generic,,100,100,liter,0
+Vinegar Synthetic,Synthétique Du Vinaigre,Vinegar Synthetic,Generic,,100,100,liter,0
+Vinegar White,"White Vinegars, Vinaigre Blanc",Vinegar White,Generic,,100,100,liter,0
+Walnut,"Walnuts, Akharot, Noyer, Akhrot",Walnut,Generic,,100,100,kg,0
+Water,"Paani, Eau",Water,Generic,,100,100,liter,0
+Water Chestnuts,"Singhara, Châtaignes d'eau, water chestnuts",Water Chestnuts,Generic,,100,100,kg,0
+Water Melon Seeds,"Magaj, Makaz",Water Melon Seeds,Generic,,100,100,kg,0
+Watermelon,"Watermelons, Tarbooj, Pastèque, tarabooj",Watermelon,Generic,,100,100,kg,0
+Wheat Biscuit,"Wheat Biscuits, Biscuit de blé",Wheat Biscuit,Generic,,100,100,kg,0
+Wheat Broken,"Gandela Gehoon, Blé Cassé, Khandela Gehoon, Daliya, Dalia",Wheat Broken,Generic,,100,100,kg,0
+Wheat Flour,"Wheat Flours, Gehoon Aata, Farine de blé",Wheat Flour,Generic,,100,100,kg,0
+Wheat Grounded,"Chakki Atta, Blé à la terre, chakki atta",Wheat Grounded,Generic,,100,100,kg,0
+Wheat Starch,"Mais Douh, Maido",Wheat Starch,Generic,,100,100,kg,0
+Wheat Whole,"Gehoon, Blé entier",Wheat Whole,Generic,,100,100,kg,0
+Whipped Cream,"Whipped Creams, Cream Whipped, Whipping Cream, Crème Fouettée",Whipped Cream,Generic,,100,100,liter,0
+White Beans,Tsaramaso,White Beans,Generic,,100,100,kg,0
+White Flour,White Flour,White Flour,Generic,,100,100,kg,0
+White Peas,"Safed Matar, Pois blancs",White Peas,Generic,,100,100,kg,0
+White Pepper,"Poivre Blanc, White Pepper Powder",White Pepper,Generic,,100,100,kg,0
+Whole Grain Bread,Whole Grain Bread,Whole Grain Bread,Generic,,100,100,kg,0
+Whole wheat flour,Gaw No loth,Whole wheat flour,Generic,,100,100,kg,0
+Yam Elephant,"Sooran, Yam, Éléphant d'igname, Elephant Yam",Yam Elephant,Generic,,100,100,kg,0
+Yeast,"Yeasts, Levure",Yeast,Generic,,100,100,kg,0
+Yellow Bell Pepper,Poivron jaune,Yellow Bell Pepper,Generic,,100,100,kg,0
+Yellow Cornmeal,Semoule de maïs jaune,Yellow Cornmeal,Generic,,100,100,kg,0
+Yellow Lentil,"Yellow Lentils, Lentille Jaune, Moong Dal, Mung Dal",Yellow Lentil,Generic,,100,100,kg,0
+Yellow Mustard,"Rai, Moutarde jaune, yellow mustard",Yellow Mustard,Generic,,100,100,kg,0
+Yogurt,"Yogurts, Yaourt, Plain Yogurt",Yogurt,Generic,,100,100,kg,0
+Yogurt Greek,"Greek Yogurts, Yaourt grec",Yogurt Greek,Generic,,100,100,kg,0
+Zucchini,"Zucchini, Courgette",Zucchini,Generic,,100,100,kg,0
